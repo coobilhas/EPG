@@ -18,6 +18,23 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" />
     <url>http://www.meo.pt</url>
   </channel>
+  <channel id="RTP 2 LB">
+    <display-name lang="pt">RTP 2 LB</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="RTP 2 FHD">
+    <display-name lang="pt">RTP 2 FHD</display-name>
+    <url>http://www.nowo.pt</url>
+  </channel>
   <programme start="20190909021900 +0100" stop="20190909030700 +0100" channel="RTP 1 LB">
     <title lang="pt">Salamandra</title>
     <category lang="pt">series</category>
@@ -85,492 +102,6 @@
     <title lang="pt">2077 - 10 Segundos Para o Futuro</title>
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
-  </programme>
-  <programme start="20190910003100 +0100" stop="20190910012800 +0100" channel="RTP 1 LB">
-    <title lang="pt">Fúrias da Natureza</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S2E1</episode-num>
-  </programme>
-  <programme start="20190910012800 +0100" stop="20190910024500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Kintal di Belinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E13</episode-num>
-  </programme>
-  <programme start="20190910024500 +0100" stop="20190910032800 +0100" channel="RTP 1 LB">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E153</episode-num>
-  </programme>
-  <programme start="20190910032800 +0100" stop="20190910055900 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190910055900 +0100" stop="20190910063000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910063000 +0100" stop="20190910100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910100000 +0100" stop="20190910130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E2</episode-num>
-  </programme>
-  <programme start="20190910130000 +0100" stop="20190910142000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910142000 +0100" stop="20190910173000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E2</episode-num>
-  </programme>
-  <programme start="20190910173000 +0100" stop="20190910190000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910190000 +0100" stop="20190910193700 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910193700 +0100" stop="20190910213800 +0100" channel="RTP 1 LB">
-    <title lang="pt">Qualificação Euro 2020 - Lituânia x Portugal</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190910213800 +0100" stop="20190910215600 +0100" channel="RTP 1 LB">
-    <title lang="pt">Futebol: Qualificação Euro 2020 - Flash Interview</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190910215600 +0100" stop="20190910225000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E79</episode-num>
-  </programme>
-  <programme start="20190910225000 +0100" stop="20190911002700 +0100" channel="RTP 1 LB">
-    <title lang="pt">Prova Oral</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E5</episode-num>
-  </programme>
-  <programme start="20190911002700 +0100" stop="20190911031200 +0100" channel="RTP 1 LB">
-    <title lang="pt">Os Canhões de Navarone</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190911031200 +0100" stop="20190911035600 +0100" channel="RTP 1 LB">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E154</episode-num>
-  </programme>
-  <programme start="20190911035600 +0100" stop="20190911055900 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190911055900 +0100" stop="20190911063000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911063000 +0100" stop="20190911100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911100000 +0100" stop="20190911130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E3</episode-num>
-  </programme>
-  <programme start="20190911130000 +0100" stop="20190911141500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911141500 +0100" stop="20190911173000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E3</episode-num>
-  </programme>
-  <programme start="20190911173000 +0100" stop="20190911190000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911190000 +0100" stop="20190911195900 +0100" channel="RTP 1 LB">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190911195900 +0100" stop="20190911210000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911210000 +0100" stop="20190911213000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal Mais Perto</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E16</episode-num>
-  </programme>
-  <programme start="20190911213000 +0100" stop="20190911223000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E80</episode-num>
-  </programme>
-  <programme start="20190911223000 +0100" stop="20190911233000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Cá por Casa com Herman José</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S5E2</episode-num>
-  </programme>
-  <programme start="20190911233000 +0100" stop="20190912000000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Amor a Quanto Obrigas</title>
-    <category lang="pt">series</category>
-    <episode-num system="xmltv_ns">S4E6</episode-num>
-  </programme>
-  <programme start="20190912000000 +0100" stop="20190912010000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Janela Indiscreta</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S11E37</episode-num>
-  </programme>
-  <programme start="20190912010000 +0100" stop="20190912014500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Grande Entrevista</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S12E31</episode-num>
-  </programme>
-  <programme start="20190912014500 +0100" stop="20190912023000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E155</episode-num>
-  </programme>
-  <programme start="20190912023000 +0100" stop="20190912031500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E156</episode-num>
-  </programme>
-  <programme start="20190912031500 +0100" stop="20190912055900 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190912055900 +0100" stop="20190912063000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912063000 +0100" stop="20190912100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912100000 +0100" stop="20190912130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E4</episode-num>
-  </programme>
-  <programme start="20190912130000 +0100" stop="20190912141500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912141500 +0100" stop="20190912173000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E4</episode-num>
-  </programme>
-  <programme start="20190912173000 +0100" stop="20190912184500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912184500 +0100" stop="20190912190800 +0100" channel="RTP 1 LB">
-    <title lang="pt">Fatura Da Sorte</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E36</episode-num>
-  </programme>
-  <programme start="20190912190800 +0100" stop="20190912195900 +0100" channel="RTP 1 LB">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190912195900 +0100" stop="20190912210000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912210000 +0100" stop="20190912214500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Debates Legislativas 2019</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E8</episode-num>
-  </programme>
-  <programme start="20190912214500 +0100" stop="20190912224500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E81</episode-num>
-  </programme>
-  <programme start="20190912224500 +0100" stop="20190913000000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Cosido à Mão</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E11</episode-num>
-  </programme>
-  <programme start="20190913000000 +0100" stop="20190913001500 +0100" channel="RTP 1 LB">
-    <title lang="pt">À Roda da Alimentação</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E33</episode-num>
-  </programme>
-  <programme start="20190913001500 +0100" stop="20190913010000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Sei Quem Ele É</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E4</episode-num>
-  </programme>
-  <programme start="20190913010000 +0100" stop="20190913030000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Uma Ponte Longe Demais</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190913030000 +0100" stop="20190913034500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913034500 +0100" stop="20190913055900 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913055900 +0100" stop="20190913063000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913063000 +0100" stop="20190913100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913100000 +0100" stop="20190913130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E5</episode-num>
-  </programme>
-  <programme start="20190913130000 +0100" stop="20190913141500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913141500 +0100" stop="20190913173000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E5</episode-num>
-  </programme>
-  <programme start="20190913173000 +0100" stop="20190913190800 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913190800 +0100" stop="20190913195900 +0100" channel="RTP 1 LB">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913195900 +0100" stop="20190913210000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913210000 +0100" stop="20190913213000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Sexta às 9</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S8E25</episode-num>
-  </programme>
-  <programme start="20190913213000 +0100" stop="20190913223000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E82</episode-num>
-  </programme>
-  <programme start="20190913223000 +0100" stop="20190913233000 +0100" channel="RTP 1 LB">
-    <title lang="pt">O Nosso Cônsul em Havana</title>
-    <category lang="pt">series</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190913233000 +0100" stop="20190914004500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190914004500 +0100" stop="20190914024500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Samitério de Animais</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190914024500 +0100" stop="20190914034500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914034500 +0100" stop="20190914054500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914054500 +0100" stop="20190914063100 +0100" channel="RTP 1 LB">
-    <title lang="pt">Viva a Música</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E22</episode-num>
-  </programme>
-  <programme start="20190914063100 +0100" stop="20190914064000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Conta Um Conto</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E10</episode-num>
-  </programme>
-  <programme start="20190914064000 +0100" stop="20190914065000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Os Bochechas</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E14</episode-num>
-  </programme>
-  <programme start="20190914065000 +0100" stop="20190914070000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jelly Jamm</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E20</episode-num>
-  </programme>
-  <programme start="20190914070000 +0100" stop="20190914071500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Zig Zag</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S21E73</episode-num>
-  </programme>
-  <programme start="20190914071500 +0100" stop="20190914073000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Gawayn</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E26</episode-num>
-  </programme>
-  <programme start="20190914073000 +0100" stop="20190914074500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Lulu Cambalhota</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S2E37</episode-num>
-  </programme>
-  <programme start="20190914074500 +0100" stop="20190914080000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E17</episode-num>
-  </programme>
-  <programme start="20190914080000 +0100" stop="20190914100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914100000 +0100" stop="20190914103000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal Selvagem</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E9</episode-num>
-  </programme>
-  <programme start="20190914103000 +0100" stop="20190914110000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Portugal Selvagem</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E10</episode-num>
-  </programme>
-  <programme start="20190914110000 +0100" stop="20190914124500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Aqui Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S7E34</episode-num>
-  </programme>
-  <programme start="20190914124500 +0100" stop="20190914130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">À Roda da Alimentação</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E34</episode-num>
-  </programme>
-  <programme start="20190914130000 +0100" stop="20190914141100 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914141100 +0100" stop="20190914143000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Voz do Cidadão</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S8E30</episode-num>
-  </programme>
-  <programme start="20190914143000 +0100" stop="20190914190000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Aqui Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S7E34</episode-num>
-  </programme>
-  <programme start="20190914190000 +0100" stop="20190914210000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914210000 +0100" stop="20190914213000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914213000 +0100" stop="20190914223000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E83</episode-num>
-  </programme>
-  <programme start="20190914223000 +0100" stop="20190915010000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915010000 +0100" stop="20190915030000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Famílias Frente a Frente - Desafio na Cozinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190915030000 +0100" stop="20190915034500 +0100" channel="RTP 1 LB">
-    <title lang="pt">A3.30</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E33</episode-num>
-  </programme>
-  <programme start="20190915034500 +0100" stop="20190915060000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915060000 +0100" stop="20190915063100 +0100" channel="RTP 1 LB">
-    <title lang="pt">Todas as Palavras</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S4E35</episode-num>
-  </programme>
-  <programme start="20190915063100 +0100" stop="20190915064000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Conta Um Conto</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E13</episode-num>
-  </programme>
-  <programme start="20190915064000 +0100" stop="20190915065000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Os Bochechas</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E13</episode-num>
-  </programme>
-  <programme start="20190915065000 +0100" stop="20190915070000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jelly Jamm</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E21</episode-num>
-  </programme>
-  <programme start="20190915070000 +0100" stop="20190915071500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Zig Zag</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S21E74</episode-num>
-  </programme>
-  <programme start="20190915071500 +0100" stop="20190915073000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Gawayn</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E27</episode-num>
-  </programme>
-  <programme start="20190915073000 +0100" stop="20190915074500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Lulu Cambalhota</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S2E38</episode-num>
-  </programme>
-  <programme start="20190915074500 +0100" stop="20190915080000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E18</episode-num>
-  </programme>
-  <programme start="20190915080000 +0100" stop="20190915100000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915100000 +0100" stop="20190915110000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Eucaristia Dominical</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915110000 +0100" stop="20190915130000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915130000 +0100" stop="20190915141500 +0100" channel="RTP 1 LB">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915141500 +0100" stop="20190915160000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Liga de Futsal - Benfica x SC Braga/AAUM</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190915160000 +0100" stop="20190915195900 +0100" channel="RTP 1 LB">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915195900 +0100" stop="20190915210000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915210000 +0100" stop="20190915230000 +0100" channel="RTP 1 LB">
-    <title lang="pt">I Love Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E6</episode-num>
-  </programme>
-  <programme start="20190915230000 +0100" stop="20190916010000 +0100" channel="RTP 1 LB">
-    <title lang="pt">Sozinhos em Berlim</title>
-    <category lang="pt">filmes</category>
   </programme>
   <programme start="20190909021900 +0100" stop="20190909030700 +0100" channel="RTP 1">
     <title lang="pt">Salamandra</title>
@@ -640,492 +171,6 @@
     <category lang="pt">documentarios</category>
     <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20190910003100 +0100" stop="20190910012800 +0100" channel="RTP 1">
-    <title lang="pt">Fúrias da Natureza</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S2E1</episode-num>
-  </programme>
-  <programme start="20190910012800 +0100" stop="20190910024500 +0100" channel="RTP 1">
-    <title lang="pt">Kintal di Belinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E13</episode-num>
-  </programme>
-  <programme start="20190910024500 +0100" stop="20190910032800 +0100" channel="RTP 1">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E153</episode-num>
-  </programme>
-  <programme start="20190910032800 +0100" stop="20190910055900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190910055900 +0100" stop="20190910063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910063000 +0100" stop="20190910100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910100000 +0100" stop="20190910130000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E2</episode-num>
-  </programme>
-  <programme start="20190910130000 +0100" stop="20190910142000 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910142000 +0100" stop="20190910173000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E2</episode-num>
-  </programme>
-  <programme start="20190910173000 +0100" stop="20190910190000 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910190000 +0100" stop="20190910193700 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190910193700 +0100" stop="20190910213800 +0100" channel="RTP 1">
-    <title lang="pt">Qualificação Euro 2020 - Lituânia x Portugal</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190910213800 +0100" stop="20190910215600 +0100" channel="RTP 1">
-    <title lang="pt">Futebol: Qualificação Euro 2020 - Flash Interview</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190910215600 +0100" stop="20190910225000 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E79</episode-num>
-  </programme>
-  <programme start="20190910225000 +0100" stop="20190911002700 +0100" channel="RTP 1">
-    <title lang="pt">Prova Oral</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E5</episode-num>
-  </programme>
-  <programme start="20190911002700 +0100" stop="20190911031200 +0100" channel="RTP 1">
-    <title lang="pt">Os Canhões de Navarone</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190911031200 +0100" stop="20190911035600 +0100" channel="RTP 1">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E154</episode-num>
-  </programme>
-  <programme start="20190911035600 +0100" stop="20190911055900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190911055900 +0100" stop="20190911063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911063000 +0100" stop="20190911100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911100000 +0100" stop="20190911130000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E3</episode-num>
-  </programme>
-  <programme start="20190911130000 +0100" stop="20190911141500 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911141500 +0100" stop="20190911173000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E3</episode-num>
-  </programme>
-  <programme start="20190911173000 +0100" stop="20190911190000 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911190000 +0100" stop="20190911195900 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190911195900 +0100" stop="20190911210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190911210000 +0100" stop="20190911213000 +0100" channel="RTP 1">
-    <title lang="pt">Portugal Mais Perto</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E16</episode-num>
-  </programme>
-  <programme start="20190911213000 +0100" stop="20190911223000 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E80</episode-num>
-  </programme>
-  <programme start="20190911223000 +0100" stop="20190911233000 +0100" channel="RTP 1">
-    <title lang="pt">Cá por Casa com Herman José</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S5E2</episode-num>
-  </programme>
-  <programme start="20190911233000 +0100" stop="20190912000000 +0100" channel="RTP 1">
-    <title lang="pt">Amor a Quanto Obrigas</title>
-    <category lang="pt">series</category>
-    <episode-num system="xmltv_ns">S4E6</episode-num>
-  </programme>
-  <programme start="20190912000000 +0100" stop="20190912010000 +0100" channel="RTP 1">
-    <title lang="pt">Janela Indiscreta</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S11E37</episode-num>
-  </programme>
-  <programme start="20190912010000 +0100" stop="20190912014500 +0100" channel="RTP 1">
-    <title lang="pt">Grande Entrevista</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S12E31</episode-num>
-  </programme>
-  <programme start="20190912014500 +0100" stop="20190912023000 +0100" channel="RTP 1">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E155</episode-num>
-  </programme>
-  <programme start="20190912023000 +0100" stop="20190912031500 +0100" channel="RTP 1">
-    <title lang="pt">Água de Mar</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E156</episode-num>
-  </programme>
-  <programme start="20190912031500 +0100" stop="20190912055900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190912055900 +0100" stop="20190912063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912063000 +0100" stop="20190912100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912100000 +0100" stop="20190912130000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E4</episode-num>
-  </programme>
-  <programme start="20190912130000 +0100" stop="20190912141500 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912141500 +0100" stop="20190912173000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E4</episode-num>
-  </programme>
-  <programme start="20190912173000 +0100" stop="20190912184500 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912184500 +0100" stop="20190912190800 +0100" channel="RTP 1">
-    <title lang="pt">Fatura Da Sorte</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E36</episode-num>
-  </programme>
-  <programme start="20190912190800 +0100" stop="20190912195900 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190912195900 +0100" stop="20190912210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190912210000 +0100" stop="20190912214500 +0100" channel="RTP 1">
-    <title lang="pt">Debates Legislativas 2019</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E8</episode-num>
-  </programme>
-  <programme start="20190912214500 +0100" stop="20190912224500 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E81</episode-num>
-  </programme>
-  <programme start="20190912224500 +0100" stop="20190913000000 +0100" channel="RTP 1">
-    <title lang="pt">Cosido à Mão</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E11</episode-num>
-  </programme>
-  <programme start="20190913000000 +0100" stop="20190913001500 +0100" channel="RTP 1">
-    <title lang="pt">À Roda da Alimentação</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E33</episode-num>
-  </programme>
-  <programme start="20190913001500 +0100" stop="20190913010000 +0100" channel="RTP 1">
-    <title lang="pt">Sei Quem Ele É</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S3E4</episode-num>
-  </programme>
-  <programme start="20190913010000 +0100" stop="20190913030000 +0100" channel="RTP 1">
-    <title lang="pt">Uma Ponte Longe Demais</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190913030000 +0100" stop="20190913034500 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913034500 +0100" stop="20190913055900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913055900 +0100" stop="20190913063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913063000 +0100" stop="20190913100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913100000 +0100" stop="20190913130000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E5</episode-num>
-  </programme>
-  <programme start="20190913130000 +0100" stop="20190913141500 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913141500 +0100" stop="20190913173000 +0100" channel="RTP 1">
-    <title lang="pt">Festa das Vindimas</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E5</episode-num>
-  </programme>
-  <programme start="20190913173000 +0100" stop="20190913190800 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913190800 +0100" stop="20190913195900 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190913195900 +0100" stop="20190913210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190913210000 +0100" stop="20190913213000 +0100" channel="RTP 1">
-    <title lang="pt">Sexta às 9</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S8E25</episode-num>
-  </programme>
-  <programme start="20190913213000 +0100" stop="20190913223000 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E82</episode-num>
-  </programme>
-  <programme start="20190913223000 +0100" stop="20190913233000 +0100" channel="RTP 1">
-    <title lang="pt">O Nosso Cônsul em Havana</title>
-    <category lang="pt">series</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190913233000 +0100" stop="20190914004500 +0100" channel="RTP 1">
-    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190914004500 +0100" stop="20190914024500 +0100" channel="RTP 1">
-    <title lang="pt">Samitério de Animais</title>
-    <category lang="pt">filmes</category>
-  </programme>
-  <programme start="20190914024500 +0100" stop="20190914034500 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914034500 +0100" stop="20190914054500 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914054500 +0100" stop="20190914063100 +0100" channel="RTP 1">
-    <title lang="pt">Viva a Música</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E22</episode-num>
-  </programme>
-  <programme start="20190914063100 +0100" stop="20190914064000 +0100" channel="RTP 1">
-    <title lang="pt">Conta Um Conto</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E10</episode-num>
-  </programme>
-  <programme start="20190914064000 +0100" stop="20190914065000 +0100" channel="RTP 1">
-    <title lang="pt">Os Bochechas</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E14</episode-num>
-  </programme>
-  <programme start="20190914065000 +0100" stop="20190914070000 +0100" channel="RTP 1">
-    <title lang="pt">Jelly Jamm</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E20</episode-num>
-  </programme>
-  <programme start="20190914070000 +0100" stop="20190914071500 +0100" channel="RTP 1">
-    <title lang="pt">Zig Zag</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S21E73</episode-num>
-  </programme>
-  <programme start="20190914071500 +0100" stop="20190914073000 +0100" channel="RTP 1">
-    <title lang="pt">Gawayn</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E26</episode-num>
-  </programme>
-  <programme start="20190914073000 +0100" stop="20190914074500 +0100" channel="RTP 1">
-    <title lang="pt">Lulu Cambalhota</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S2E37</episode-num>
-  </programme>
-  <programme start="20190914074500 +0100" stop="20190914080000 +0100" channel="RTP 1">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E17</episode-num>
-  </programme>
-  <programme start="20190914080000 +0100" stop="20190914100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914100000 +0100" stop="20190914103000 +0100" channel="RTP 1">
-    <title lang="pt">Portugal Selvagem</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E9</episode-num>
-  </programme>
-  <programme start="20190914103000 +0100" stop="20190914110000 +0100" channel="RTP 1">
-    <title lang="pt">Portugal Selvagem</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E10</episode-num>
-  </programme>
-  <programme start="20190914110000 +0100" stop="20190914124500 +0100" channel="RTP 1">
-    <title lang="pt">Aqui Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S7E34</episode-num>
-  </programme>
-  <programme start="20190914124500 +0100" stop="20190914130000 +0100" channel="RTP 1">
-    <title lang="pt">À Roda da Alimentação</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S1E34</episode-num>
-  </programme>
-  <programme start="20190914130000 +0100" stop="20190914141100 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914141100 +0100" stop="20190914143000 +0100" channel="RTP 1">
-    <title lang="pt">Voz do Cidadão</title>
-    <category lang="pt">informacao</category>
-    <episode-num system="xmltv_ns">S8E30</episode-num>
-  </programme>
-  <programme start="20190914143000 +0100" stop="20190914190000 +0100" channel="RTP 1">
-    <title lang="pt">Aqui Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S7E34</episode-num>
-  </programme>
-  <programme start="20190914190000 +0100" stop="20190914210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190914210000 +0100" stop="20190914213000 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190914213000 +0100" stop="20190914223000 +0100" channel="RTP 1">
-    <title lang="pt">Joker</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S2E83</episode-num>
-  </programme>
-  <programme start="20190914223000 +0100" stop="20190915010000 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915010000 +0100" stop="20190915030000 +0100" channel="RTP 1">
-    <title lang="pt">Famílias Frente a Frente - Desafio na Cozinha</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E12</episode-num>
-  </programme>
-  <programme start="20190915030000 +0100" stop="20190915034500 +0100" channel="RTP 1">
-    <title lang="pt">A3.30</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E33</episode-num>
-  </programme>
-  <programme start="20190915034500 +0100" stop="20190915060000 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915060000 +0100" stop="20190915063100 +0100" channel="RTP 1">
-    <title lang="pt">Todas as Palavras</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S4E35</episode-num>
-  </programme>
-  <programme start="20190915063100 +0100" stop="20190915064000 +0100" channel="RTP 1">
-    <title lang="pt">Conta Um Conto</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E13</episode-num>
-  </programme>
-  <programme start="20190915064000 +0100" stop="20190915065000 +0100" channel="RTP 1">
-    <title lang="pt">Os Bochechas</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E13</episode-num>
-  </programme>
-  <programme start="20190915065000 +0100" stop="20190915070000 +0100" channel="RTP 1">
-    <title lang="pt">Jelly Jamm</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E21</episode-num>
-  </programme>
-  <programme start="20190915070000 +0100" stop="20190915071500 +0100" channel="RTP 1">
-    <title lang="pt">Zig Zag</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S21E74</episode-num>
-  </programme>
-  <programme start="20190915071500 +0100" stop="20190915073000 +0100" channel="RTP 1">
-    <title lang="pt">Gawayn</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S1E27</episode-num>
-  </programme>
-  <programme start="20190915073000 +0100" stop="20190915074500 +0100" channel="RTP 1">
-    <title lang="pt">Lulu Cambalhota</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="xmltv_ns">S2E38</episode-num>
-  </programme>
-  <programme start="20190915074500 +0100" stop="20190915080000 +0100" channel="RTP 1">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="xmltv_ns">S1E18</episode-num>
-  </programme>
-  <programme start="20190915080000 +0100" stop="20190915100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915100000 +0100" stop="20190915110000 +0100" channel="RTP 1">
-    <title lang="pt">Eucaristia Dominical</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915110000 +0100" stop="20190915130000 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915130000 +0100" stop="20190915141500 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915141500 +0100" stop="20190915160000 +0100" channel="RTP 1">
-    <title lang="pt">Liga de Futsal - Benfica x SC Braga/AAUM</title>
-    <category lang="pt">desporto</category>
-  </programme>
-  <programme start="20190915160000 +0100" stop="20190915195900 +0100" channel="RTP 1">
-    <title lang="pt">Programa a Designar</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20190915195900 +0100" stop="20190915210000 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-    <category lang="pt">informacao</category>
-  </programme>
-  <programme start="20190915210000 +0100" stop="20190915230000 +0100" channel="RTP 1">
-    <title lang="pt">I Love Portugal</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="xmltv_ns">S1E6</episode-num>
-  </programme>
-  <programme start="20190915230000 +0100" stop="20190916010000 +0100" channel="RTP 1">
-    <title lang="pt">Sozinhos em Berlim</title>
-    <category lang="pt">filmes</category>
-  </programme>
   <programme start="20190909035500 +0100" stop="20190909061400 +0100" channel="RTP 1 HD">
     <title lang="pt">Televendas</title>
     <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
@@ -1192,494 +237,6 @@
     <desc lang="pt">Inteligência Artificial. Nanotecnologia. Fusão Homem/Máquina. Genética Estamos no ponto de partida de uma mudança tecnológica exponencial. Nas próximas décadas viveremos a desmaterialização da tecnologia. Os computadores abandonarão as secretárias para se instalar nos olhos, nas paredes e em tudo o que nos rodeia(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979139/M" />
     <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20190910003100 +0100" stop="20190910012800 +0100" channel="RTP 1 HD">
-    <title lang="pt">Fúrias da Natureza</title>
-    <desc lang="pt">Série que explora a ciência por detrás dos desastres naturais em busca da sua compreensão mais profunda(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965694/M" />
-  </programme>
-  <programme start="20190910012800 +0100" stop="20190910024500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Kintal di Belinha</title>
-    <desc lang="pt">Kintal di Belinha não esconde nada e mostra como, num quintal em festa, Belinha, a anfitriã, recebe os principais artistas de música tradicional cabo-verdiana. Para noites de tocatina ao som de mornas, coladeiras, batuque e vários outros ritmos que fazem parte do cancioneiro de Cabo Verde: a rever neste Kintal de Belinha Best Of(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965698/M" />
-  </programme>
-  <programme start="20190910024500 +0100" stop="20190910032800 +0100" channel="RTP 1 HD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7173034/M" />
-    <episode-num system="onscreen">E155</episode-num>
-  </programme>
-  <programme start="20190910032800 +0100" stop="20190910055900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979143/M" />
-  </programme>
-  <programme start="20190910055900 +0100" stop="20190910063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965717/M" />
-  </programme>
-  <programme start="20190910063000 +0100" stop="20190910100000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965721/M" />
-  </programme>
-  <programme start="20190910100000 +0100" stop="20190910130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho de Talha, Alentejo)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentCom Joana Teles, Jorge Gabriel e Joana Dias. Com Joana Teles, Jorge Gabriel e Joana Dias(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965725/M" />
-  </programme>
-  <programme start="20190910130000 +0100" stop="20190910142000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965729/M" />
-  </programme>
-  <programme start="20190910142000 +0100" stop="20190910173000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho de Talha, Alentejo)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Joana Dias(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965733/M" />
-  </programme>
-  <programme start="20190910173000 +0100" stop="20190910190000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965737/M" />
-  </programme>
-  <programme start="20190910190000 +0100" stop="20190910193700 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965741/M" />
-  </programme>
-  <programme start="20190910193700 +0100" stop="20190910213800 +0100" channel="RTP 1 HD">
-    <title lang="pt">Lituânia x Portugal - Qualificação EURO 2020 (Direto)</title>
-    <desc lang="pt">A Lituânia defronta a seleção das Quinas, em Vilnius, num jogo de qualificação para o Euro 2020(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965745/M" />
-  </programme>
-  <programme start="20190910213800 +0100" stop="20190910215600 +0100" channel="RTP 1 HD">
-    <title lang="pt">Lituânia x Portugal (Flash Interview)</title>
-    <desc lang="pt">A seguir ao jogo, a 'flash interview' com as reações do momento!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979712/M" />
-  </programme>
-  <programme start="20190910215600 +0100" stop="20190910225000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965705/M" />
-  </programme>
-  <programme start="20190910225000 +0100" stop="20190911002700 +0100" channel="RTP 1 HD">
-    <title lang="pt">Prova Oral</title>
-    <desc lang="pt">O famoso programa diário da Antena 3 é uma instituição com 20 anos e ganha agora a forma de programa televisivo semanal. Fernando Alvim , com a ajuda intercalada de Xana Alves e Catarina Moura, entrevistam em estúdio gente do momento, com as perguntas que todos desejam e as reações dos espetadores, enviadas por Whatsapp e outros dispositivos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965709/M" />
-  </programme>
-  <programme start="20190911002700 +0100" stop="20190911031200 +0100" channel="RTP 1 HD">
-    <title lang="pt">Os Canhões de Navarone</title>
-    <desc lang="pt">Gregory Peck, David Niven e Anthony Quinn, formam o comando aliado recrutado para uma perigosa, mas imperativa missão: infiltrarem-se numa ilha ocupada pelo exército alemão e destruir os canhões que impedem o resgate de dois mil soldados britânicos feitos prisioneiros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965749/M" />
-  </programme>
-  <programme start="20190911031200 +0100" stop="20190911035600 +0100" channel="RTP 1 HD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7176271/M" />
-    <episode-num system="onscreen">E156</episode-num>
-  </programme>
-  <programme start="20190911035600 +0100" stop="20190911055900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965776/M" />
-  </programme>
-  <programme start="20190911055900 +0100" stop="20190911063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965780/M" />
-  </programme>
-  <programme start="20190911063000 +0100" stop="20190911100000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965784/M" />
-  </programme>
-  <programme start="20190911100000 +0100" stop="20190911130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho do Douro)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Sónia Araújo, Hélder Reis e Rita Belinha(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979147/M" />
-  </programme>
-  <programme start="20190911130000 +0100" stop="20190911141500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965792/M" />
-  </programme>
-  <programme start="20190911141500 +0100" stop="20190911173000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho do Douro)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Sónia Araújo, Hélder Reis e Rita Belinha(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979151/M" />
-  </programme>
-  <programme start="20190911173000 +0100" stop="20190911190000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965800/M" />
-  </programme>
-  <programme start="20190911190000 +0100" stop="20190911195900 +0100" channel="RTP 1 HD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965756/M" />
-  </programme>
-  <programme start="20190911195900 +0100" stop="20190911210000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965804/M" />
-  </programme>
-  <programme start="20190911210000 +0100" stop="20190911213000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal Mais Perto</title>
-    <desc lang="pt">Percorremos o maior passadiço do Algarve como aquecimento prévio para uma aula intensiva de kite surf. Perto de Lisboa, Óbidos, tornada vila literária, atrai cada vez mais visitantes. Deambulamos pelas ruas, igrejas e praças recheadas de livros e histórias. Em plena floresta laurisilva, seguimos uma levada e descobrimos a importância desses cursos de água para a ilha da Madeira(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965760/M" />
-  </programme>
-  <programme start="20190911213000 +0100" stop="20190911223000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965764/M" />
-  </programme>
-  <programme start="20190911223000 +0100" stop="20190911233000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Cá Por Casa com Herman José</title>
-    <desc lang="pt">Neste programa misturam-se os conceitos de talk show, humor e variedades. Entre conversas no sofá, ao piano, algumas incursões à cozinha, grandes atuações musicais e sketches de humor com Maria Rueff. O público e convidados são surpreendidos numa casa onde tudo pode acontecer. Conduzido por Herman José(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965768/M" />
-  </programme>
-  <programme start="20190911233000 +0100" stop="20190912000000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Amor a Quanto Obrigas</title>
-    <desc lang="pt">Sharon e Rob chegam a Boston para umas férias em família, mas recebem uma notícia trágica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965772/M" />
-    <episode-num system="onscreen">S4 E6</episode-num>
-  </programme>
-  <programme start="20190912000000 +0100" stop="20190912010000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Janela Indiscreta</title>
-    <desc lang="pt">Janela Indiscreta é um programa sobre cinema que dá a conhecer as estreias, histórias de bastidores e entrevistas com os protagonistas das produções internacionais, muitas delas em exclusivo. Com apresentação de Mário Augusto(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965808/M" />
-  </programme>
-  <programme start="20190912010000 +0100" stop="20190912014500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Grande Entrevista</title>
-    <desc lang="pt">Grande Entrevista com Vítor Gonçalves(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965826/M" />
-  </programme>
-  <programme start="20190912014500 +0100" stop="20190912023000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7190322/M" />
-    <episode-num system="onscreen">E157</episode-num>
-  </programme>
-  <programme start="20190912023000 +0100" stop="20190912031500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7192785/M" />
-    <episode-num system="onscreen">E158</episode-num>
-  </programme>
-  <programme start="20190912031500 +0100" stop="20190912055900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965830/M" />
-  </programme>
-  <programme start="20190912055900 +0100" stop="20190912063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965834/M" />
-  </programme>
-  <programme start="20190912063000 +0100" stop="20190912100000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965838/M" />
-  </programme>
-  <programme start="20190912100000 +0100" stop="20190912130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho da Madeira)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Licínia Ribeiro(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965842/M" />
-  </programme>
-  <programme start="20190912130000 +0100" stop="20190912141500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965846/M" />
-  </programme>
-  <programme start="20190912141500 +0100" stop="20190912180000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho da Madeira)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Licínia Ribeiro(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965850/M" />
-  </programme>
-  <programme start="20190912180000 +0100" stop="20190912184500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965854/M" />
-  </programme>
-  <programme start="20190912184500 +0100" stop="20190912190000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Fatura da Sorte</title>
-    <desc lang="pt">Todas as semanas, o sorteio de certificados do tesouro, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965858/M" />
-  </programme>
-  <programme start="20190912190000 +0100" stop="20190912195900 +0100" channel="RTP 1 HD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965818/M" />
-  </programme>
-  <programme start="20190912195900 +0100" stop="20190912210000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965862/M" />
-  </programme>
-  <programme start="20190912210000 +0100" stop="20190912214500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Debates Legislativas: Rui Rio e Jerónimo de Sousa</title>
-    <desc lang="pt">A poucos dias das eleições legislativas, acompanhe na RTP os debates entre os líderes partidários(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979155/M" />
-  </programme>
-  <programme start="20190912214500 +0100" stop="20190912224500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965822/M" />
-  </programme>
-  <programme start="20190912224500 +0100" stop="20190913001500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Cosido à Mão</title>
-    <desc lang="pt">Um formato que aposta no empreendedorismo nacional ao desafiar 15 concorrentes - costureiros amadores - a apresentarem as suas melhores propostas. 'Cosido à Mão' é apresentado por Sónia Araújo e, ao longo de 13 semanas, Paulo Battista e Susana Agostinho irão avaliar as competências dos nossos candidatos. Em cada episódio serão avaliadas tanto a técnica como a criatividade de cada um(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12022400/M" />
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20190913001500 +0100" stop="20190913010000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Sei Quem Ele É</title>
-    <desc lang="pt">Patrícia Vasconcelos conversa com atores nacionais que têm alcançado grandes sucessos dentro e fora de Portugal. Vamos saber como tudo começou com alguns dos atores nacionais que são uma referência no panorama cinematográfico e televisivo a nível nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965870/M" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20190913010000 +0100" stop="20190913030000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Filme a Designar</title>
-    <desc lang="pt">Filme a Designar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965893/M" />
-  </programme>
-  <programme start="20190913030000 +0100" stop="20190913034500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7192801/M" />
-    <episode-num system="onscreen">E159</episode-num>
-  </programme>
-  <programme start="20190913034500 +0100" stop="20190913055900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965897/M" />
-  </programme>
-  <programme start="20190913055900 +0100" stop="20190913063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965901/M" />
-  </programme>
-  <programme start="20190913063000 +0100" stop="20190913100000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965905/M" />
-  </programme>
-  <programme start="20190913100000 +0100" stop="20190913130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho do Pico, Açores)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com José Carlos Malato, Tatiana Ourique e Graça Moniz(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965909/M" />
-  </programme>
-  <programme start="20190913130000 +0100" stop="20190913141500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965913/M" />
-  </programme>
-  <programme start="20190913141500 +0100" stop="20190913173000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho do Pico, Açores)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com José Carlos Malato, Tatiana Ourique e Graça Moniz(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965917/M" />
-  </programme>
-  <programme start="20190913173000 +0100" stop="20190913190000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965921/M" />
-  </programme>
-  <programme start="20190913190000 +0100" stop="20190913195900 +0100" channel="RTP 1 HD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965877/M" />
-  </programme>
-  <programme start="20190913195900 +0100" stop="20190913210000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965925/M" />
-  </programme>
-  <programme start="20190913210000 +0100" stop="20190913213000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Sexta às 9</title>
-    <desc lang="pt">Programa semanal, de atualidade e investigação política, económica e social, apresentado pela jornalista Sandra Felgueiras(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965929/M" />
-  </programme>
-  <programme start="20190913213000 +0100" stop="20190913223000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965881/M" />
-  </programme>
-  <programme start="20190913223000 +0100" stop="20190913233000 +0100" channel="RTP 1 HD">
-    <title lang="pt">O Nosso Cônsul em Havana</title>
-    <desc lang="pt">No seu quarto do hotel, Eça encontra uma carta de Anna Cannover lançada por debaixo da porta. Mas, para sua desilusão, aparece Esteves e a urgência de uma chamada ao Palácio do Governador(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965885/M" />
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20190913233000 +0100" stop="20190914004500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
-    <desc lang="pt">Todas as semanas, José Pedro Vasconcelos constrói um programa em torno de uma personalidade relevante do panorama nacional ou internacional e de temas da atualidade que tenham a ver com esse convidado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965889/M" />
-  </programme>
-  <programme start="20190914004500 +0100" stop="20190914034500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Uma Ponte Longe Demais</title>
-    <desc lang="pt">Em Setembro de 1944, incentivados pela vitória na invasão da Normandia, os Aliados lançam a operação Market Garden, uma tentativa insana para pôr fim à 2a Grande Guerra através da invasão da Alemanha e destruição dos planos do Reich. Porém, uma combinação de política, informação incompleta, má sorte e péssimas condições climatéricas levaram ao desastre(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965933/M" />
-  </programme>
-  <programme start="20190914034500 +0100" stop="20190914054500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965967/M" />
-  </programme>
-  <programme start="20190914054500 +0100" stop="20190914063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Viva a Música</title>
-    <desc lang="pt">Chega ao fim mais uma temporada do Viva a Música, depois de mais de muitas emissões que, semanalmente, iluminaram o Palco da Rádio. Será Flak: o músico que crónica da cena pop/rock portuguesa assinala como referencial tanto nos Rádio Macau como nos Micro Audio Waves, a levar-nos consigo à descoberta da 'Cidade Fantástica', título do seu disco mais recente(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965937/M" />
-  </programme>
-  <programme start="20190914063000 +0100" stop="20190914074500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Zig Zag</title>
-    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965941/M" />
-  </programme>
-  <programme start="20190914074500 +0100" stop="20190914080000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <desc lang="pt">Rune tem 12 anos. Ele adora ballet e o seu sonho é ser bailarino clássico profissional. Mas primeiro ele tem de ser admitido na prestigiada Royal Ballet School de Flanders. É uma escola com fama internacional e Rune terá de fazer uma audição para ser admitido. Conseguirá ele enfrentar o desafio? Vai ser bom o suficiente? Estas são as dúvidas que Rune enfrenta, mas ele está determinado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965945/M" />
-  </programme>
-  <programme start="20190914080000 +0100" stop="20190914100000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965971/M" />
-  </programme>
-  <programme start="20190914100000 +0100" stop="20190914103000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal Selvagem</title>
-    <desc lang="pt">Protagonista: Flamingo. Fauna: Mergulhã?o-pequeno. Cegonha preta. Garça. Cegonha branca. Mergulhão. Avoceta. Colhereiro. Galinhola. Calama?o. Marreca-arrebio e azulão. Vegetação: Flora palustre e subaquática. Matagal e azinhar mediterrâneos. Esteva. Espaços Naturais: Parque Natural Vale do Guadiana. Montemor-o-Novo. Parque Arqueológico de Escoural(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5995357/M" />
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20190914103000 +0100" stop="20190914110000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Portugal Selvagem</title>
-    <desc lang="pt">Protagonista: Golfinho. Fauna: Lagosta do recife. Peixe martelo. Tentilha?o azul. Chorlitejo. Tartaruga laúde. Peixe espada. Vegetação: Mato baixo. Ecossistema: Superfície terrestre e fundo marinho. Espaços Naturais: Baía de São Lourenço, Maia, Anjos e Praia. Ponta do Castelo. Fonte do Jordão. Pico Alto(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6010500/M" />
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20190914110000 +0100" stop="20190914124500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Aqui Portugal</title>
-    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965955/M" />
-  </programme>
-  <programme start="20190914124500 +0100" stop="20190914130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">À Roda da Alimentação</title>
-    <desc lang="pt">A nossa saúde e o nosso bem-estar dependem muito de nós, por isso precisamos de dicas que façam toda a diferença no nosso dia-a-dia. Apresentado por Catarina Furtado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965975/M" />
-  </programme>
-  <programme start="20190914130000 +0100" stop="20190914141500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965979/M" />
-  </programme>
-  <programme start="20190914141500 +0100" stop="20190914143000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Voz do Cidadão</title>
-    <desc lang="pt">Da responsabilidade do Provedor do Telespetador, o programa que é exibido regularmente através de todas as Estações do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos em cada semana trazidos à apreciação do Provedor pelos Telespetadores(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965983/M" />
-  </programme>
-  <programme start="20190914143000 +0100" stop="20190914190000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Aqui Portugal</title>
-    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965959/M" />
-  </programme>
-  <programme start="20190914190000 +0100" stop="20190914210000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965987/M" />
-  </programme>
-  <programme start="20190914210000 +0100" stop="20190914213000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965991/M" />
-  </programme>
-  <programme start="20190914213000 +0100" stop="20190914223000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965963/M" />
-  </programme>
-  <programme start="20190914223000 +0100" stop="20190915010000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965995/M" />
-  </programme>
-  <programme start="20190915010000 +0100" stop="20190915030000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Famílias Frente a Frente - Desafio na Cozinha</title>
-    <desc lang="pt">Estamos na penúltima semana de Famílias Frente a Frente e a competição será marcada por um desafio no exterior, onde irá predominar a tradição portuguesa. Mas como estamos na reta final a pressão é maior e as famílias terão ainda de replicar um prato dos Chef´s Hugo Nascimento, José Avillez e Filipa Gomes! Em Setúbal decorre um desafio ligado a uma grande tradição portuguesa: a pesca(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12241226/M" />
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20190915030000 +0100" stop="20190915034500 +0100" channel="RTP 1 HD">
-    <title lang="pt">A3.30</title>
-    <desc lang="pt">Fernando Alvim apresenta um top semanal, com os 30 temas mais votados e diz quem é o rei da semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965999/M" />
-  </programme>
-  <programme start="20190915034500 +0100" stop="20190915060000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966019/M" />
-  </programme>
-  <programme start="20190915060000 +0100" stop="20190915063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Todas as Palavras</title>
-    <desc lang="pt">Ana Daniela Soares, Inês Fonseca Santos e Luís Caetano conversam com quem nos emociona através das palavras(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966023/M" />
-  </programme>
-  <programme start="20190915063000 +0100" stop="20190915074500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Zig Zag</title>
-    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966003/M" />
-  </programme>
-  <programme start="20190915074500 +0100" stop="20190915080000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <desc lang="pt">Lovro Zagar tem 12 anos e tem muitos talentos e interesses. O maior desejo de Lovro e o seu maior sonho é ser um designer de moda e criar roupas confortáveis e chiques para as pessoas serem felizes. Lovro desenhou durante quatro anos e sente que chegou a hora de costurar várias criações e fazer o seu primeiro desfile de moda(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966007/M" />
-  </programme>
-  <programme start="20190915080000 +0100" stop="20190915103000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966027/M" />
-  </programme>
-  <programme start="20190915103000 +0100" stop="20190915110000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Eucaristia Dominical</title>
-    <desc lang="pt">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966031/M" />
-  </programme>
-  <programme start="20190915110000 +0100" stop="20190915130000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966035/M" />
-  </programme>
-  <programme start="20190915130000 +0100" stop="20190915141500 +0100" channel="RTP 1 HD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966039/M" />
-  </programme>
-  <programme start="20190915141500 +0100" stop="20190915160000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Futsal: Benfica x SC Braga - Camp. Nacional (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Futsal, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966043/M" />
-  </programme>
-  <programme start="20190915160000 +0100" stop="20190915195900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966047/M" />
-  </programme>
-  <programme start="20190915195900 +0100" stop="20190915210000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966051/M" />
-  </programme>
-  <programme start="20190915210000 +0100" stop="20190915230000 +0100" channel="RTP 1 HD">
-    <title lang="pt">I Love Portugal</title>
-    <desc lang="pt">Apresentado por Filomena Cautela e Vasco Palmeirim, o 'I Love Portugal' promete animar as suas noites. Duas equipas de celebridades unem forças com o público, com o objetivo de mostrar como conhecem e adoram Portugal. Trata-se de um programa dedicado aos momentos mais memoráveis do nosso país, ao longo dos anos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966011/M" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20190915230000 +0100" stop="20190916010000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Sozinhos em Berlim</title>
-    <desc lang="pt">Berlim 1940. A cidade está paralisada pelo medo. Otto e Anna Quangel são um casal da classe operária a viver num apartamento modesto tentando, como toda a gente, colocar-se fora dos problemas sob o regime nazista. Mas quando o seu único filho é morto a lutar contra o regime, a sua perda leva-os num ato extraordinário de resistência(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966015/M" />
   </programme>
   <programme start="20190909035500 +0100" stop="20190909061400 +0100" channel="RTP 1 FHD">
     <title lang="pt">Televendas</title>
@@ -1748,492 +305,438 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979140/M" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20190910003100 +0100" stop="20190910012800 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Fúrias da Natureza</title>
-    <desc lang="pt">Série que explora a ciência por detrás dos desastres naturais em busca da sua compreensão mais profunda(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965695/M" />
+  <programme start="20190909000900 +0100" stop="20190909010200 +0100" channel="RTP 2 LB">
+    <title lang="pt">Crise</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
   </programme>
-  <programme start="20190910012800 +0100" stop="20190910024500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Kintal di Belinha</title>
-    <desc lang="pt">Kintal di Belinha não esconde nada e mostra como, num quintal em festa, Belinha, a anfitriã, recebe os principais artistas de música tradicional cabo-verdiana. Para noites de tocatina ao som de mornas, coladeiras, batuque e vários outros ritmos que fazem parte do cancioneiro de Cabo Verde: a rever neste Kintal de Belinha Best Of(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965699/M" />
+  <programme start="20190909010200 +0100" stop="20190909011800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E29</episode-num>
   </programme>
-  <programme start="20190910024500 +0100" stop="20190910032800 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965753/M" />
-    <episode-num system="onscreen">E155</episode-num>
+  <programme start="20190909011800 +0100" stop="20190909015500 +0100" channel="RTP 2 LB">
+    <title lang="pt">Olhar o Mundo</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S6E31</episode-num>
   </programme>
-  <programme start="20190910032800 +0100" stop="20190910055900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979144/M" />
+  <programme start="20190909015500 +0100" stop="20190909024800 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Ciência da Adolescência</title>
+    <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20190910055900 +0100" stop="20190910063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965718/M" />
+  <programme start="20190909024800 +0100" stop="20190909070200 +0100" channel="RTP 2 LB">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
   </programme>
-  <programme start="20190910063000 +0100" stop="20190910100000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965722/M" />
+  <programme start="20190909070200 +0100" stop="20190909071500 +0100" channel="RTP 2 LB">
+    <title lang="pt">Vipo, as Aventuras do Cão Voador</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
   </programme>
-  <programme start="20190910100000 +0100" stop="20190910130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho de Talha, Alentejo)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentCom Joana Teles, Jorge Gabriel e Joana Dias. Com Joana Teles, Jorge Gabriel e Joana Dias(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965726/M" />
+  <programme start="20190909071500 +0100" stop="20190909072800 +0100" channel="RTP 2 LB">
+    <title lang="pt">O Coelho Júlio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
   </programme>
-  <programme start="20190910130000 +0100" stop="20190910142000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965730/M" />
+  <programme start="20190909072800 +0100" stop="20190909073900 +0100" channel="RTP 2 LB">
+    <title lang="pt">Olivia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E47</episode-num>
   </programme>
-  <programme start="20190910142000 +0100" stop="20190910173000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho de Talha, Alentejo)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Joana Dias(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965734/M" />
+  <programme start="20190909073900 +0100" stop="20190909075000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Grande e Pequeno</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
   </programme>
-  <programme start="20190910173000 +0100" stop="20190910190000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965738/M" />
+  <programme start="20190909075000 +0100" stop="20190909080100 +0100" channel="RTP 2 LB">
+    <title lang="pt">Mini Ninjas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
   </programme>
-  <programme start="20190910190000 +0100" stop="20190910193700 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965742/M" />
+  <programme start="20190909080100 +0100" stop="20190909080600 +0100" channel="RTP 2 LB">
+    <title lang="pt">Kiwi</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
   </programme>
-  <programme start="20190910193700 +0100" stop="20190910213800 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Lituânia x Portugal - Qualificação EURO 2020 (Direto)</title>
-    <desc lang="pt">A Lituânia defronta a seleção das Quinas, em Vilnius, num jogo de qualificação para o Euro 2020(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965746/M" />
+  <programme start="20190909080600 +0100" stop="20190909082000 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
   </programme>
-  <programme start="20190910213800 +0100" stop="20190910215600 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Lituânia x Portugal (Flash Interview)</title>
-    <desc lang="pt">A seguir ao jogo, a 'flash interview' com as reações do momento!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979713/M" />
+  <programme start="20190909082000 +0100" stop="20190909082700 +0100" channel="RTP 2 LB">
+    <title lang="pt">As Aventuras da Miffy</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
   </programme>
-  <programme start="20190910215600 +0100" stop="20190910225000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965706/M" />
+  <programme start="20190909082700 +0100" stop="20190909084100 +0100" channel="RTP 2 LB">
+    <title lang="pt">O Mundo de Luna!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
   </programme>
-  <programme start="20190910225000 +0100" stop="20190911002700 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Prova Oral</title>
-    <desc lang="pt">O famoso programa diário da Antena 3 é uma instituição com 20 anos e ganha agora a forma de programa televisivo semanal. Fernando Alvim , com a ajuda intercalada de Xana Alves e Catarina Moura, entrevistam em estúdio gente do momento, com as perguntas que todos desejam e as reações dos espetadores, enviadas por Whatsapp e outros dispositivos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965710/M" />
+  <programme start="20190909084100 +0100" stop="20190909085400 +0100" channel="RTP 2 LB">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
   </programme>
-  <programme start="20190911002700 +0100" stop="20190911031200 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Os Canhões de Navarone</title>
-    <desc lang="pt">Gregory Peck, David Niven e Anthony Quinn, formam o comando aliado recrutado para uma perigosa, mas imperativa missão: infiltrarem-se numa ilha ocupada pelo exército alemão e destruir os canhões que impedem o resgate de dois mil soldados britânicos feitos prisioneiros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965750/M" />
+  <programme start="20190909085400 +0100" stop="20190909090800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Os Bochechas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
   </programme>
-  <programme start="20190911031200 +0100" stop="20190911035600 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965812/M" />
-    <episode-num system="onscreen">E156</episode-num>
+  <programme start="20190909090800 +0100" stop="20190909092000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Estela e Simão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E25</episode-num>
   </programme>
-  <programme start="20190911035600 +0100" stop="20190911055900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965777/M" />
+  <programme start="20190909092000 +0100" stop="20190909093100 +0100" channel="RTP 2 LB">
+    <title lang="pt">Campo Lakebottom</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E33</episode-num>
   </programme>
-  <programme start="20190911055900 +0100" stop="20190911063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965781/M" />
+  <programme start="20190909093100 +0100" stop="20190909093800 +0100" channel="RTP 2 LB">
+    <title lang="pt">As Perguntas da Mily</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
   </programme>
-  <programme start="20190911063000 +0100" stop="20190911100000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965785/M" />
+  <programme start="20190909093800 +0100" stop="20190909094800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E75</episode-num>
   </programme>
-  <programme start="20190911100000 +0100" stop="20190911130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho do Douro)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Sónia Araújo, Hélder Reis e Rita Belinha(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979148/M" />
+  <programme start="20190909094800 +0100" stop="20190909100100 +0100" channel="RTP 2 LB">
+    <title lang="pt">Robin dos Bosques - Travessuras Em Sherwood</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
   </programme>
-  <programme start="20190911130000 +0100" stop="20190911141500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965793/M" />
+  <programme start="20190909100100 +0100" stop="20190909101200 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Mirette Investiga</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
   </programme>
-  <programme start="20190911141500 +0100" stop="20190911173000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho do Douro)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Sónia Araújo, Hélder Reis e Rita Belinha(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979152/M" />
+  <programme start="20190909101200 +0100" stop="20190909103500 +0100" channel="RTP 2 LB">
+    <title lang="pt">Lucas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
   </programme>
-  <programme start="20190911173000 +0100" stop="20190911190000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965801/M" />
+  <programme start="20190909103500 +0100" stop="20190909104700 +0100" channel="RTP 2 LB">
+    <title lang="pt">Bali</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
   </programme>
-  <programme start="20190911190000 +0100" stop="20190911195900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965757/M" />
+  <programme start="20190909104700 +0100" stop="20190909105300 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Grande Descoberta</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
   </programme>
-  <programme start="20190911195900 +0100" stop="20190911210000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965805/M" />
+  <programme start="20190909105300 +0100" stop="20190909110200 +0100" channel="RTP 2 LB">
+    <title lang="pt">Wissper</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E51</episode-num>
   </programme>
-  <programme start="20190911210000 +0100" stop="20190911213000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal Mais Perto</title>
-    <desc lang="pt">Percorremos o maior passadiço do Algarve como aquecimento prévio para uma aula intensiva de kite surf. Perto de Lisboa, Óbidos, tornada vila literária, atrai cada vez mais visitantes. Deambulamos pelas ruas, igrejas e praças recheadas de livros e histórias. Em plena floresta laurisilva, seguimos uma levada e descobrimos a importância desses cursos de água para a ilha da Madeira(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965761/M" />
+  <programme start="20190909110200 +0100" stop="20190909111300 +0100" channel="RTP 2 LB">
+    <title lang="pt">Ao Resgate da Selva</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E35</episode-num>
   </programme>
-  <programme start="20190911213000 +0100" stop="20190911223000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965765/M" />
+  <programme start="20190909111300 +0100" stop="20190909112500 +0100" channel="RTP 2 LB">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
   </programme>
-  <programme start="20190911223000 +0100" stop="20190911233000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Cá Por Casa com Herman José</title>
-    <desc lang="pt">Neste programa misturam-se os conceitos de talk show, humor e variedades. Entre conversas no sofá, ao piano, algumas incursões à cozinha, grandes atuações musicais e sketches de humor com Maria Rueff. O público e convidados são surpreendidos numa casa onde tudo pode acontecer. Conduzido por Herman José(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965769/M" />
+  <programme start="20190909112500 +0100" stop="20190909115000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Drama Total Apresenta A Corrida Ri-Don-Cula</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
   </programme>
-  <programme start="20190911233000 +0100" stop="20190912000000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Amor a Quanto Obrigas</title>
-    <desc lang="pt">Sharon e Rob chegam a Boston para umas férias em família, mas recebem uma notícia trágica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965773/M" />
+  <programme start="20190909115000 +0100" stop="20190909121800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Rapazes do Nada</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190909121800 +0100" stop="20190909124700 +0100" channel="RTP 2 LB">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909124700 +0100" stop="20190909133800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Neue Nationalgalerie</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190909133800 +0100" stop="20190909134600 +0100" channel="RTP 2 LB">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909134600 +0100" stop="20190909145000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Francisco Lucas Pires - Ao Princípio Não Era o Estado, Era o Homem</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190909145000 +0100" stop="20190909152500 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Fé dos Homens</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909152500 +0100" stop="20190909154900 +0100" channel="RTP 2 LB">
+    <title lang="pt">Armário</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190909154900 +0100" stop="20190909164500 +0100" channel="RTP 2 LB">
+    <title lang="pt">O Japão Visto do Céu</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190909164500 +0100" stop="20190909165700 +0100" channel="RTP 2 LB">
+    <title lang="pt">Bali</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E48</episode-num>
+  </programme>
+  <programme start="20190909165700 +0100" stop="20190909170800 +0100" channel="RTP 2 LB">
+    <title lang="pt">O Coelho Júlio</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20190909170800 +0100" stop="20190909172100 +0100" channel="RTP 2 LB">
+    <title lang="pt">Grande e Pequeno</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E39</episode-num>
+  </programme>
+  <programme start="20190909172100 +0100" stop="20190909173300 +0100" channel="RTP 2 LB">
+    <title lang="pt">O Mundo de Luna!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190909173300 +0100" stop="20190909173800 +0100" channel="RTP 2 LB">
+    <title lang="pt">Kiwi</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190909173800 +0100" stop="20190909175200 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20190909175200 +0100" stop="20190909194300 +0100" channel="RTP 2 LB">
+    <title lang="pt">Europeu de Futsal Sub-19 - Polónia x Portugal</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190909194300 +0100" stop="20190909200200 +0100" channel="RTP 2 LB">
+    <title lang="pt">Waybuloo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E50</episode-num>
+  </programme>
+  <programme start="20190909200200 +0100" stop="20190909200900 +0100" channel="RTP 2 LB">
+    <title lang="pt">As Perguntas da Mily</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20190909200900 +0100" stop="20190909201900 +0100" channel="RTP 2 LB">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E71</episode-num>
+  </programme>
+  <programme start="20190909201900 +0100" stop="20190909203000 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Mirette Investiga</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20190909203000 +0100" stop="20190909204300 +0100" channel="RTP 2 LB">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20190909204300 +0100" stop="20190909204900 +0100" channel="RTP 2 LB">
+    <title lang="pt">Banda Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190909204900 +0100" stop="20190909211600 +0100" channel="RTP 2 LB">
+    <title lang="pt">Rapazes do Nada</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190909211600 +0100" stop="20190909213000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Hora da Sorte - Lotaria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909213000 +0100" stop="20190909220400 +0100" channel="RTP 2 LB">
+    <title lang="pt">Jornal 2</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E250</episode-num>
+  </programme>
+  <programme start="20190909220400 +0100" stop="20190909221000 +0100" channel="RTP 2 LB">
+    <title lang="pt">Folha de Sala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909221000 +0100" stop="20190909231200 +0100" channel="RTP 2 LB">
+    <title lang="pt">A Fraude</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E5</episode-num>
+  </programme>
+  <programme start="20190909231200 +0100" stop="20190910010600 +0100" channel="RTP 2 LB">
+    <title lang="pt">Dheepan</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190909024800 +0100" stop="20190909070000 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966857/M" />
+  </programme>
+  <programme start="20190909070000 +0100" stop="20190909115000 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966862/M" />
+  </programme>
+  <programme start="20190909115000 +0100" stop="20190909121800 +0100" channel="RTP 2">
+    <title lang="pt">Rapazes do Nada</title>
+    <desc lang="pt">Quando de repente um amigo se torna um inimigo o grupo fica abalado. Jesse confronta o seu cyber bully e triunfa inesperadamente(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966870/M" />
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20190912000000 +0100" stop="20190912010000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Janela Indiscreta</title>
-    <desc lang="pt">Janela Indiscreta é um programa sobre cinema que dá a conhecer as estreias, histórias de bastidores e entrevistas com os protagonistas das produções internacionais, muitas delas em exclusivo. Com apresentação de Mário Augusto(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965809/M" />
-  </programme>
-  <programme start="20190912010000 +0100" stop="20190912014500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Grande Entrevista</title>
-    <desc lang="pt">Grande Entrevista com Vítor Gonçalves(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965827/M" />
-  </programme>
-  <programme start="20190912014500 +0100" stop="20190912023000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965815/M" />
-    <episode-num system="onscreen">E157</episode-num>
-  </programme>
-  <programme start="20190912023000 +0100" stop="20190912031500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965874/M" />
-    <episode-num system="onscreen">E158</episode-num>
-  </programme>
-  <programme start="20190912031500 +0100" stop="20190912055900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965831/M" />
-  </programme>
-  <programme start="20190912055900 +0100" stop="20190912063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965835/M" />
-  </programme>
-  <programme start="20190912063000 +0100" stop="20190912100000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965839/M" />
-  </programme>
-  <programme start="20190912100000 +0100" stop="20190912130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho da Madeira)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Licínia Ribeiro(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965843/M" />
-  </programme>
-  <programme start="20190912130000 +0100" stop="20190912141500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965847/M" />
-  </programme>
-  <programme start="20190912141500 +0100" stop="20190912180000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho da Madeira)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com Joana Teles, Jorge Gabriel e Licínia Ribeiro(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965851/M" />
-  </programme>
-  <programme start="20190912180000 +0100" stop="20190912184500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965855/M" />
-  </programme>
-  <programme start="20190912184500 +0100" stop="20190912190000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Fatura da Sorte</title>
-    <desc lang="pt">Todas as semanas, o sorteio de certificados do tesouro, que tem por finalidade 'valorizar e premiar a cidadania fiscal dos contribuintes no combate à economia paralela e à evasão fiscal'(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965859/M" />
-  </programme>
-  <programme start="20190912190000 +0100" stop="20190912195900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965819/M" />
-  </programme>
-  <programme start="20190912195900 +0100" stop="20190912210000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965863/M" />
-  </programme>
-  <programme start="20190912210000 +0100" stop="20190912214500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Debates Legislativas: Rui Rio e Jerónimo de Sousa</title>
-    <desc lang="pt">A poucos dias das eleições legislativas, acompanhe na RTP os debates entre os líderes partidários(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12979156/M" />
-  </programme>
-  <programme start="20190912214500 +0100" stop="20190912224500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965823/M" />
-  </programme>
-  <programme start="20190912224500 +0100" stop="20190913001500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Cosido à Mão</title>
-    <desc lang="pt">Um formato que aposta no empreendedorismo nacional ao desafiar 15 concorrentes - costureiros amadores - a apresentarem as suas melhores propostas. 'Cosido à Mão' é apresentado por Sónia Araújo e, ao longo de 13 semanas, Paulo Battista e Susana Agostinho irão avaliar as competências dos nossos candidatos. Em cada episódio serão avaliadas tanto a técnica como a criatividade de cada um(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12022401/M" />
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20190913001500 +0100" stop="20190913010000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Sei Quem Ele É</title>
-    <desc lang="pt">Patrícia Vasconcelos conversa com atores nacionais que têm alcançado grandes sucessos dentro e fora de Portugal. Vamos saber como tudo começou com alguns dos atores nacionais que são uma referência no panorama cinematográfico e televisivo a nível nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965871/M" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20190913010000 +0100" stop="20190913030000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Filme a Designar</title>
-    <desc lang="pt">Filme a Designar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965894/M" />
-  </programme>
-  <programme start="20190913030000 +0100" stop="20190913034500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Água de Mar</title>
-    <desc lang="pt">Teresa (Mariana Monteiro) e Vicente (Rui Santos) nunca estiveram tão distantes. Agora que conquistou finalmente a guarda de Carmo (Inês Conde) e Amélie (Inês Bernardino) - as suas enteadas luso-francesas órfãs -, a professora de dança está determinada em fazer da integração das meninas a sua prioridade máxima(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12974835/M" />
-    <episode-num system="onscreen">E159</episode-num>
-  </programme>
-  <programme start="20190913034500 +0100" stop="20190913055900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965898/M" />
-  </programme>
-  <programme start="20190913055900 +0100" stop="20190913063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Manchetes 3</title>
-    <desc lang="pt">Informação diária(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965902/M" />
-  </programme>
-  <programme start="20190913063000 +0100" stop="20190913100000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal</title>
-    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965906/M" />
-  </programme>
-  <programme start="20190913100000 +0100" stop="20190913130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Manhã (Vinho do Pico, Açores)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com José Carlos Malato, Tatiana Ourique e Graça Moniz(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965910/M" />
-  </programme>
-  <programme start="20190913130000 +0100" stop="20190913141500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965914/M" />
-  </programme>
-  <programme start="20190913141500 +0100" stop="20190913173000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Festa das Vindimas - Tarde (Vinho do Pico, Açores)</title>
-    <desc lang="pt">Acompanhe as Festas das Vindimas, uma das tradições do nosso país que é marcada por muito trabalho, mas também com muita alegria e festa. Vamos conhecer a produção do vinho de cada região e conversar com produtores, que connosco vão partilhar as curiosidades e os conhecimentos que caraterizam os diferentes vinhos existentes no nosso país. Com José Carlos Malato, Tatiana Ourique e Graça Moniz(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965918/M" />
-  </programme>
-  <programme start="20190913173000 +0100" stop="20190913190000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal em Direto</title>
-    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965922/M" />
-  </programme>
-  <programme start="20190913190000 +0100" stop="20190913195900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">O Preço Certo</title>
-    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965878/M" />
-  </programme>
-  <programme start="20190913195900 +0100" stop="20190913210000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965926/M" />
-  </programme>
-  <programme start="20190913210000 +0100" stop="20190913213000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Sexta às 9</title>
-    <desc lang="pt">Programa semanal, de atualidade e investigação política, económica e social, apresentado pela jornalista Sandra Felgueiras(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965930/M" />
-  </programme>
-  <programme start="20190913213000 +0100" stop="20190913223000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965882/M" />
-  </programme>
-  <programme start="20190913223000 +0100" stop="20190913233000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">O Nosso Cônsul em Havana</title>
-    <desc lang="pt">No seu quarto do hotel, Eça encontra uma carta de Anna Cannover lançada por debaixo da porta. Mas, para sua desilusão, aparece Esteves e a urgência de uma chamada ao Palácio do Governador(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965886/M" />
-    <episode-num system="onscreen">E13</episode-num>
-  </programme>
-  <programme start="20190913233000 +0100" stop="20190914004500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
-    <desc lang="pt">Todas as semanas, José Pedro Vasconcelos constrói um programa em torno de uma personalidade relevante do panorama nacional ou internacional e de temas da atualidade que tenham a ver com esse convidado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965890/M" />
-  </programme>
-  <programme start="20190914004500 +0100" stop="20190914034500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Uma Ponte Longe Demais</title>
-    <desc lang="pt">Em Setembro de 1944, incentivados pela vitória na invasão da Normandia, os Aliados lançam a operação Market Garden, uma tentativa insana para pôr fim à 2a Grande Guerra através da invasão da Alemanha e destruição dos planos do Reich. Porém, uma combinação de política, informação incompleta, má sorte e péssimas condições climatéricas levaram ao desastre(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965934/M" />
-  </programme>
-  <programme start="20190914034500 +0100" stop="20190914054500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965968/M" />
-  </programme>
-  <programme start="20190914054500 +0100" stop="20190914063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Viva a Música</title>
-    <desc lang="pt">Chega ao fim mais uma temporada do Viva a Música, depois de mais de muitas emissões que, semanalmente, iluminaram o Palco da Rádio. Será Flak: o músico que crónica da cena pop/rock portuguesa assinala como referencial tanto nos Rádio Macau como nos Micro Audio Waves, a levar-nos consigo à descoberta da 'Cidade Fantástica', título do seu disco mais recente(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965938/M" />
-  </programme>
-  <programme start="20190914063000 +0100" stop="20190914074500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Zig Zag</title>
-    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965942/M" />
-  </programme>
-  <programme start="20190914074500 +0100" stop="20190914080000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <desc lang="pt">Rune tem 12 anos. Ele adora ballet e o seu sonho é ser bailarino clássico profissional. Mas primeiro ele tem de ser admitido na prestigiada Royal Ballet School de Flanders. É uma escola com fama internacional e Rune terá de fazer uma audição para ser admitido. Conseguirá ele enfrentar o desafio? Vai ser bom o suficiente? Estas são as dúvidas que Rune enfrenta, mas ele está determinado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965946/M" />
-  </programme>
-  <programme start="20190914080000 +0100" stop="20190914100000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965972/M" />
-  </programme>
-  <programme start="20190914100000 +0100" stop="20190914103000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal Selvagem</title>
-    <desc lang="pt">Protagonista: Flamingo. Fauna: Mergulhã?o-pequeno. Cegonha preta. Garça. Cegonha branca. Mergulhão. Avoceta. Colhereiro. Galinhola. Calama?o. Marreca-arrebio e azulão. Vegetação: Flora palustre e subaquática. Matagal e azinhar mediterrâneos. Esteva. Espaços Naturais: Parque Natural Vale do Guadiana. Montemor-o-Novo. Parque Arqueológico de Escoural(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965949/M" />
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20190914103000 +0100" stop="20190914110000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Portugal Selvagem</title>
-    <desc lang="pt">Protagonista: Golfinho. Fauna: Lagosta do recife. Peixe martelo. Tentilha?o azul. Chorlitejo. Tartaruga laúde. Peixe espada. Vegetação: Mato baixo. Ecossistema: Superfície terrestre e fundo marinho. Espaços Naturais: Baía de São Lourenço, Maia, Anjos e Praia. Ponta do Castelo. Fonte do Jordão. Pico Alto(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965952/M" />
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20190914110000 +0100" stop="20190914124500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Aqui Portugal</title>
-    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965956/M" />
-  </programme>
-  <programme start="20190914124500 +0100" stop="20190914130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">À Roda da Alimentação</title>
-    <desc lang="pt">A nossa saúde e o nosso bem-estar dependem muito de nós, por isso precisamos de dicas que façam toda a diferença no nosso dia-a-dia. Apresentado por Catarina Furtado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965976/M" />
-  </programme>
-  <programme start="20190914130000 +0100" stop="20190914141500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965980/M" />
-  </programme>
-  <programme start="20190914141500 +0100" stop="20190914143000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Voz do Cidadão</title>
-    <desc lang="pt">Da responsabilidade do Provedor do Telespetador, o programa que é exibido regularmente através de todas as Estações do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos em cada semana trazidos à apreciação do Provedor pelos Telespetadores(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965984/M" />
-  </programme>
-  <programme start="20190914143000 +0100" stop="20190914190000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Aqui Portugal</title>
-    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965960/M" />
-  </programme>
-  <programme start="20190914190000 +0100" stop="20190914210000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965988/M" />
-  </programme>
-  <programme start="20190914210000 +0100" stop="20190914213000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965992/M" />
-  </programme>
-  <programme start="20190914213000 +0100" stop="20190914223000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Joker</title>
-    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965964/M" />
-  </programme>
-  <programme start="20190914223000 +0100" stop="20190915010000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12965996/M" />
-  </programme>
-  <programme start="20190915010000 +0100" stop="20190915030000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Famílias Frente a Frente - Desafio na Cozinha</title>
-    <desc lang="pt">Estamos na penúltima semana de Famílias Frente a Frente e a competição será marcada por um desafio no exterior, onde irá predominar a tradição portuguesa. Mas como estamos na reta final a pressão é maior e as famílias terão ainda de replicar um prato dos Chef´s Hugo Nascimento, José Avillez e Filipa Gomes! Em Setúbal decorre um desafio ligado a uma grande tradição portuguesa: a pesca(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12241227/M" />
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20190915030000 +0100" stop="20190915034500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">A3.30</title>
-    <desc lang="pt">Fernando Alvim apresenta um top semanal, com os 30 temas mais votados e diz quem é o rei da semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966000/M" />
-  </programme>
-  <programme start="20190915034500 +0100" stop="20190915060000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Televendas</title>
-    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966020/M" />
-  </programme>
-  <programme start="20190915060000 +0100" stop="20190915063000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Todas as Palavras</title>
-    <desc lang="pt">Ana Daniela Soares, Inês Fonseca Santos e Luís Caetano conversam com quem nos emociona através das palavras(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966024/M" />
-  </programme>
-  <programme start="20190915063000 +0100" stop="20190915074500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Zig Zag</title>
-    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966004/M" />
-  </programme>
-  <programme start="20190915074500 +0100" stop="20190915080000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Sim, Eu Consigo</title>
-    <desc lang="pt">Lovro Zagar tem 12 anos e tem muitos talentos e interesses. O maior desejo de Lovro e o seu maior sonho é ser um designer de moda e criar roupas confortáveis e chiques para as pessoas serem felizes. Lovro desenhou durante quatro anos e sente que chegou a hora de costurar várias criações e fazer o seu primeiro desfile de moda(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966008/M" />
-  </programme>
-  <programme start="20190915080000 +0100" stop="20190915103000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
-    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966028/M" />
-  </programme>
-  <programme start="20190915103000 +0100" stop="20190915110000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Eucaristia Dominical</title>
-    <desc lang="pt">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966032/M" />
-  </programme>
-  <programme start="20190915110000 +0100" stop="20190915130000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966036/M" />
-  </programme>
-  <programme start="20190915130000 +0100" stop="20190915141500 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Jornal da Tarde</title>
-    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966040/M" />
-  </programme>
-  <programme start="20190915141500 +0100" stop="20190915160000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Futsal: Benfica x SC Braga - Camp. Nacional (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Futsal, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966044/M" />
-  </programme>
-  <programme start="20190915160000 +0100" stop="20190915195900 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Programa a designar</title>
-    <desc lang="pt">Este espaço de emissão irá ser preenchido por um programa que oportunamente será divulgado(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966048/M" />
-  </programme>
-  <programme start="20190915195900 +0100" stop="20190915210000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Telejornal</title>
-    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966052/M" />
-  </programme>
-  <programme start="20190915210000 +0100" stop="20190915230000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">I Love Portugal</title>
-    <desc lang="pt">Apresentado por Filomena Cautela e Vasco Palmeirim, o 'I Love Portugal' promete animar as suas noites. Duas equipas de celebridades unem forças com o público, com o objetivo de mostrar como conhecem e adoram Portugal. Trata-se de um programa dedicado aos momentos mais memoráveis do nosso país, ao longo dos anos(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966012/M" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20190915230000 +0100" stop="20190916010000 +0100" channel="RTP 1 FHD">
-    <title lang="pt">Sozinhos em Berlim</title>
-    <desc lang="pt">Berlim 1940. A cidade está paralisada pelo medo. Otto e Anna Quangel são um casal da classe operária a viver num apartamento modesto tentando, como toda a gente, colocar-se fora dos problemas sob o regime nazista. Mas quando o seu único filho é morto a lutar contra o regime, a sua perda leva-os num ato extraordinário de resistência(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966016/M" />
+  <programme start="20190909121800 +0100" stop="20190909124700 +0100" channel="RTP 2">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <desc lang="pt">Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnico de Lisboa e pelo universo externo que lhe está directamente relacionado, criando uma vasta abordagem de temas onde o papel desempenhado pela escola na área do conhecimento, deverá ser transmitido à sociedade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966872/M" />
+  </programme>
+  <programme start="20190909124700 +0100" stop="20190909133800 +0100" channel="RTP 2">
+    <title lang="pt">Neue Nationalgalerie</title>
+    <desc lang="pt">A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha do arquiteto Rolf Weisse que trabalhava nos escritórios de Mies van der Rohe em Chicago, examina o período em que este edifício único foi construído(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966860/M" />
+  </programme>
+  <programme start="20190909133800 +0100" stop="20190909134600 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966874/M" />
+  </programme>
+  <programme start="20190909134600 +0100" stop="20190909145000 +0100" channel="RTP 2">
+    <title lang="pt">Francisco Lucas Pires - Ao Princípio Não Era o Estado, Era o Homem</title>
+    <desc lang="pt">Documentário de Margarida Mercês de Mello que procura mostrar o brilhantismo e a atualidade das ideias políticas de Francisco Lucas Pires nascido a 15 de setembro de 1944 e que morreu depois de ter estado na inauguração da Expo 98, como representante do Parlamento Europeu(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966876/M" />
+  </programme>
+  <programme start="20190909145000 +0100" stop="20190909152500 +0100" channel="RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+    <desc lang="pt">A Fé dos Homens(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966878/M" />
+  </programme>
+  <programme start="20190909152500 +0100" stop="20190909154900 +0100" channel="RTP 2">
+    <title lang="pt">Armário</title>
+    <desc lang="pt">Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para durar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11592491/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20190909154900 +0100" stop="20190909164400 +0100" channel="RTP 2">
+    <title lang="pt">O Japão Visto do Céu</title>
+    <desc lang="pt">Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes, o magma borbulhante oferece também benefícios como fontes termais para banhos terapêuticos e terra rica adequada para o cultivo de chá e arroz(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12099789/M" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20190909164400 +0100" stop="20190909204900 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966864/M" />
+  </programme>
+  <programme start="20190909204900 +0100" stop="20190909211600 +0100" channel="RTP 2">
+    <title lang="pt">Rapazes do Nada</title>
+    <desc lang="pt">Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12950645/M" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20190909211600 +0100" stop="20190909213000 +0100" channel="RTP 2">
+    <title lang="pt">Hora da Sorte - Lotaria</title>
+    <desc lang="pt">Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpática apresentadora Maria João Gama(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966880/M" />
+  </programme>
+  <programme start="20190909213000 +0100" stop="20190909220400 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966882/M" />
+  </programme>
+  <programme start="20190909220400 +0100" stop="20190909221000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966874/M" />
+  </programme>
+  <programme start="20190909221000 +0100" stop="20190909231200 +0100" channel="RTP 2">
+    <title lang="pt">A Fraude</title>
+    <desc lang="pt">Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos que colocou no apartamento de Nicky não fornecem nenhuma informação, e Alf, cujo comportamento se está a tornar cada vez mais psicótico, decide causar agitação e prender uma mula de drogas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966866/M" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20190909231200 +0100" stop="20190910010600 +0100" channel="RTP 2">
+    <title lang="pt">Dheepan</title>
+    <desc lang="pt">Para escapar à Guerra Civil do Sri Lanka, um antigo soldado, uma jovem mulher e uma menina fazem-se passar por uma família. Acabam por se instalar na periferia de Paris. Praticamente não se conhecem, mas vão tentar construir uma vida juntos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966868/M" />
+  </programme>
+  <programme start="20190909000900 +0100" stop="20190909010200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Crise T1</title>
+    <sub-title lang="pt">Ep. 3</sub-title>
+    <desc lang="pt">Uma gripe e trabalho intenso colocam Jana à beira do colapso. Mais uma vez, Christelle revela-se um elemento fundamental. A pesquisa de Jana no Bahrein mostrou agora que a Deutsche Global Invest tem ... Uma gripe e trabalho intenso colocam Jana à beira do colapso. Mais uma vez, Christelle revela-se um elemento fundamental. A pesquisa de Jana no Bahrein mostrou agora que a Deutsche Global Invest tem uma empresa ilegal chamada Silver Mountain. Leblanc que(n)</desc>
+  </programme>
+  <programme start="20190909010200 +0100" stop="20190909011800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Voz do Cidadão T8</title>
+    <sub-title lang="pt">Ep. 29</sub-title>
+    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais s... Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelo(n)</desc>
+  </programme>
+  <programme start="20190909015500 +0100" stop="20190909024800 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Ciência da Adolescência</title>
+    <desc lang="pt">Adolescência, uma época em que as crianças de repente se tornam jovens rebeldes. As últimas pesquisas científicas sugerem que estas alterações estão profundamente relacionadas com um mecanismo... Adolescência, uma época em que as crianças de repente se tornam jovens rebeldes. As últimas pesquisas científicas sugerem que estas alterações estão profundamente relacionadas com um mecanismo adquirido durante a evolução humana. Na verdade, o c(n)</desc>
+  </programme>
+  <programme start="20190909024800 +0100" stop="20190909070000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior int... Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procede(n)</desc>
+  </programme>
+  <programme start="20190909070000 +0100" stop="20190909115000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.... A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  </programme>
+  <programme start="20190909121800 +0100" stop="20190909124700 +0100" channel="RTP 2 HD">
+    <title lang="pt">E2</title>
+    <sub-title lang="pt">Escola Superior de Comunicação Social</sub-title>
+    <desc lang="pt">Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnic... Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnico de Lisboa e pelo universo externo que lhe está direc(n)</desc>
+  </programme>
+  <programme start="20190909124700 +0100" stop="20190909133800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Neue Nationalgalerie</title>
+    <desc lang="pt">A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha... A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha do arquiteto Rolf Weisse que trabalhava nos escritóri(n)</desc>
+  </programme>
+  <programme start="20190909133800 +0100" stop="20190909134600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espec... Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+  </programme>
+  <programme start="20190909145000 +0100" stop="20190909152500 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20190909152500 +0100" stop="20190909154900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Armário</title>
+    <sub-title lang="pt">Ep. 2</sub-title>
+    <desc lang="pt">Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para... Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para durar(n)</desc>
+  </programme>
+  <programme start="20190909154900 +0100" stop="20190909164400 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Japão Visto do Céu</title>
+    <sub-title lang="pt">Ep. 5</sub-title>
+    <desc lang="pt">Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes... Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes, o magma borbulhante oferece também benefícios como(n)</desc>
+  </programme>
+  <programme start="20190909164400 +0100" stop="20190909205000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.... A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  </programme>
+  <programme start="20190909205000 +0100" stop="20190909211600 +0100" channel="RTP 2 HD">
+    <title lang="pt">Rapazes do Nada T4</title>
+    <sub-title lang="pt">Ep. 2</sub-title>
+    <desc lang="pt">Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo.... Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo(n)</desc>
+  </programme>
+  <programme start="20190909211600 +0100" stop="20190909213000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Hora da Sorte</title>
+    <sub-title lang="pt">Lotaria</sub-title>
+    <desc lang="pt">Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpá... Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpática apresentadora Maria João Gama(n)</desc>
+  </programme>
+  <programme start="20190909213000 +0100" stop="20190909220400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade p... O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do(n)</desc>
+  </programme>
+  <programme start="20190909220400 +0100" stop="20190909221000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espec... Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+  </programme>
+  <programme start="20190909221000 +0100" stop="20190909231200 +0100" channel="RTP 2 HD">
+    <title lang="pt">A Fraude T3</title>
+    <sub-title lang="pt">Ep. 5</sub-title>
+    <desc lang="pt">Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos q... Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos que colocou no apartamento de Nicky não fornecem nenhum(n)</desc>
   </programme>
 </tv>
