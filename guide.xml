@@ -28,12 +28,13 @@
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP 2 HD">
-    <display-name lang="pt">RTP 2 HD</display-name>
-    <url>http://www.portalnacional.com.pt</url>
+    <display-name lang="en">RTP 2 HD</display-name>
+    <url>http://www.rpt.pt</url>
   </channel>
   <channel id="RTP 2 FHD">
     <display-name lang="pt">RTP 2 FHD</display-name>
-    <url>http://www.nowo.pt</url>
+    <icon src="http://www.guia-tv.pt/logos/rtp-2.png" />
+    <url>http://www.guia-tv.pt</url>
   </channel>
   <programme start="20190909021900 +0100" stop="20190909030700 +0100" channel="RTP 1 LB">
     <title lang="pt">Salamandra</title>
@@ -664,79 +665,173 @@
     <desc lang="pt">Para escapar à Guerra Civil do Sri Lanka, um antigo soldado, uma jovem mulher e uma menina fazem-se passar por uma família. Acabam por se instalar na periferia de Paris. Praticamente não se conhecem, mas vão tentar construir uma vida juntos(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12966868/M" />
   </programme>
-  <programme start="20190909000900 +0100" stop="20190909010200 +0100" channel="RTP 2 HD">
-    <title lang="pt">Crise T1</title>
-    <sub-title lang="pt">Ep. 3</sub-title>
-    <desc lang="pt">Uma gripe e trabalho intenso colocam Jana à beira do colapso. Mais uma vez, Christelle revela-se um elemento fundamental. A pesquisa de Jana no Bahrein mostrou agora que a Deutsche Global Invest tem ... Uma gripe e trabalho intenso colocam Jana à beira do colapso. Mais uma vez, Christelle revela-se um elemento fundamental. A pesquisa de Jana no Bahrein mostrou agora que a Deutsche Global Invest tem uma empresa ilegal chamada Silver Mountain. Leblanc que(n)</desc>
+  <programme start="20190909070000 +0100" stop="20190909070100 +0100" channel="RTP 2 HD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909010200 +0100" stop="20190909011800 +0100" channel="RTP 2 HD">
-    <title lang="pt">Voz do Cidadão T8</title>
-    <sub-title lang="pt">Ep. 29</sub-title>
-    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais s... Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelo(n)</desc>
+  <programme start="20190909070100 +0100" stop="20190909070200 +0100" channel="RTP 2 HD">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909015500 +0100" stop="20190909024800 +0100" channel="RTP 2 HD">
-    <title lang="pt">A Ciência da Adolescência</title>
-    <desc lang="pt">Adolescência, uma época em que as crianças de repente se tornam jovens rebeldes. As últimas pesquisas científicas sugerem que estas alterações estão profundamente relacionadas com um mecanismo... Adolescência, uma época em que as crianças de repente se tornam jovens rebeldes. As últimas pesquisas científicas sugerem que estas alterações estão profundamente relacionadas com um mecanismo adquirido durante a evolução humana. Na verdade, o c(n)</desc>
+  <programme start="20190909070200 +0100" stop="20190909073900 +0100" channel="RTP 2 HD">
+    <title lang="en">Vipo, As Aventuras do Cão Voador</title>
+    <desc lang="en">Vipo é o guia turístico mais animado e divertido do mundo!(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909024800 +0100" stop="20190909070000 +0100" channel="RTP 2 HD">
-    <title lang="pt">Euronews</title>
-    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior int... Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procede(n)</desc>
+  <programme start="20190909073900 +0100" stop="20190909084100 +0100" channel="RTP 2 HD">
+    <title lang="en">Grande e Pequeno</title>
+    <desc lang="en">Alegria e humor em diferentes tamanhos e formatos!(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909070000 +0100" stop="20190909115000 +0100" channel="RTP 2 HD">
-    <title lang="pt">Espaço Zig Zag</title>
-    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.... A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  <programme start="20190909084100 +0100" stop="20190909090600 +0100" channel="RTP 2 HD">
+    <title lang="en">Floopaloo, Onde Estás Tu?</title>
+    <desc lang="en">Lisa e Marco vivem muitas aventuras num acampamento de verão à procura de Floopaloo!(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909121800 +0100" stop="20190909124700 +0100" channel="RTP 2 HD">
-    <title lang="pt">E2</title>
-    <sub-title lang="pt">Escola Superior de Comunicação Social</sub-title>
-    <desc lang="pt">Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnic... Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnico de Lisboa e pelo universo externo que lhe está direc(n)</desc>
+  <programme start="20190909090600 +0100" stop="20190909092000 +0100" channel="RTP 2 HD">
+    <title lang="en">Glumpers</title>
+    <desc lang="en">Uma série monstruosamente animada!(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909124700 +0100" stop="20190909133800 +0100" channel="RTP 2 HD">
-    <title lang="pt">Neue Nationalgalerie</title>
-    <desc lang="pt">A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha... A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha do arquiteto Rolf Weisse que trabalhava nos escritóri(n)</desc>
+  <programme start="20190909092000 +0100" stop="20190909110200 +0100" channel="RTP 2 HD">
+    <title lang="en">Campo Lakebottom</title>
+    <desc lang="en">McGee e os seus amigos vão viver aventuras muito engraçadas em Camp Lakebottom(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909133800 +0100" stop="20190909134600 +0100" channel="RTP 2 HD">
-    <title lang="pt">Folha de Sala</title>
-    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espec... Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+  <programme start="20190909110200 +0100" stop="20190909115000 +0100" channel="RTP 2 HD">
+    <title lang="en">Ao Resgate da Selva</title>
+    <desc lang="en">Uma divertida série com animais hilariantes e imprevisíveis sempre prontos para salvar o dia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909115000 +0100" stop="20190909124700 +0100" channel="RTP 2 HD">
+    <title lang="en">Rapazes do Nada</title>
+    <desc lang="en">Quarta temporada da série de aventura australiana que segue a vida de quatro adolescentes que sofrem uma mudança perturbadora após uma excursão escolar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909124700 +0100" stop="20190909145000 +0100" channel="RTP 2 HD">
+    <title lang="en">Neue Nationalgalerie</title>
+    <desc lang="en">A história do notável edifício do arquiteto Mies van der Rohe inaugurado há 50 anos no coração de Berlim(n)</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20190909145000 +0100" stop="20190909152500 +0100" channel="RTP 2 HD">
-    <title lang="pt">A Fé dos Homens</title>
+    <title lang="en">A Fé dos Homens</title>
+    <desc lang="en">Pedro Marques, da Comunidade Bahai, entrevista  Britney Beets, uma bahai inglesa que esteve presente na Escola de Verão, em Santarém(n)</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20190909152500 +0100" stop="20190909154900 +0100" channel="RTP 2 HD">
-    <title lang="pt">Armário</title>
-    <sub-title lang="pt">Ep. 2</sub-title>
-    <desc lang="pt">Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para... Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para durar(n)</desc>
+    <title lang="en">Armário</title>
+    <desc lang="en">Magazine sobre moda apresentado por Joana Barrios(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909154900 +0100" stop="20190909164400 +0100" channel="RTP 2 HD">
-    <title lang="pt">O Japão Visto do Céu</title>
-    <sub-title lang="pt">Ep. 5</sub-title>
-    <desc lang="pt">Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes... Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes, o magma borbulhante oferece também benefícios como(n)</desc>
+  <programme start="20190909154900 +0100" stop="20190909164500 +0100" channel="RTP 2 HD">
+    <title lang="en">O Japão Visto do Céu</title>
+    <desc lang="en">À descoberta de uma cultura fascinante por paisagens de tirar o fôlego(n)</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20190909164400 +0100" stop="20190909205000 +0100" channel="RTP 2 HD">
+  <programme start="20190909164500 +0100" stop="20190909194200 +0100" channel="RTP 2 HD">
+    <title lang="en">Bali</title>
+    <desc lang="en">Bali é um menino da cidade que adora dançar!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909194200 +0100" stop="20190909194300 +0100" channel="RTP 2 HD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909194300 +0100" stop="20190909204900 +0100" channel="RTP 2 HD">
+    <title lang="en">Waybuloo</title>
+    <desc lang="en">Bem-vindo à terra de Nara, o lar dos Piplings e porta de entrada para Waybuloo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909204900 +0100" stop="20190909213000 +0100" channel="RTP 2 HD">
+    <title lang="en">Rapazes do Nada</title>
+    <desc lang="en">Quarta temporada da série de aventura australiana que segue a vida de quatro adolescentes que sofrem uma mudança perturbadora após uma excursão escolar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909213000 +0100" stop="20190910014500 +0100" channel="RTP 2 HD">
+    <title lang="en">Jornal 2</title>
+    <desc lang="en">João Fernando Ramos, Daniel Catalão e Fátima Araújo dão-lhe o essencial da informação com rigor e objetividade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190909000900 +0100" stop="20190909010200 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Crise T1 - Ep. 3</title>
+    <desc lang="pt">Uma gripe e trabalho intenso colocam Jana à beira do colapso. Mais uma vez, Christelle revela-se um elemento fundamental. A pesquisa de Jana no Bahrein mostrou agora que a Deutsche Global Invest tem uma empresa ilegal chamada Silver Mountain. Leblanc quer que Jana arranje provas disso. Em troca, ela fornece o investidor que Jana precisa para completar com sucesso Leipzig 2025: o gerente britânico de fundos de hedge, Felix Bender(n)</desc>
+  </programme>
+  <programme start="20190909010200 +0100" stop="20190909011800 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Voz do Cidadão T8 - Ep. 29</title>
+    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespectadores em cada semana(n)</desc>
+  </programme>
+  <programme start="20190909011800 +0100" stop="20190909015500 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Olhar o Mundo T6 - Ep. 31</title>
+    <desc lang="pt">Um programa sobre a atualidade internacional onde os principais assuntos da semana serão abordados num ângulo, em regra, diferente da informação diária, que implica uma lógica mais sintética das notícias(n)</desc>
+  </programme>
+  <programme start="20190909015500 +0100" stop="20190909024800 +0100" channel="RTP 2 FHD">
+    <title lang="pt">A Ciência da Adolescência</title>
+    <desc lang="pt">Adolescência, uma época em que as crianças de repente se tornam jovens rebeldes. As últimas pesquisas científicas sugerem que estas alterações estão profundamente relacionadas com um mecanismo adquirido durante a evolução humana. Na verdade, o comportamento problemático da adolescência faz parte do desenvolvimento do cérebro(n)</desc>
+  </programme>
+  <programme start="20190909024800 +0100" stop="20190909070000 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias(n)</desc>
+  </programme>
+  <programme start="20190909070000 +0100" stop="20190909115000 +0100" channel="RTP 2 FHD">
     <title lang="pt">Espaço Zig Zag</title>
-    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.... A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
   </programme>
-  <programme start="20190909205000 +0100" stop="20190909211600 +0100" channel="RTP 2 HD">
-    <title lang="pt">Rapazes do Nada T4</title>
-    <sub-title lang="pt">Ep. 2</sub-title>
-    <desc lang="pt">Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo.... Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo(n)</desc>
+  <programme start="20190909115000 +0100" stop="20190909121800 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Rapazes do Nada T4 - Ep. 6</title>
+    <desc lang="pt">Quando de repente um amigo se torna um inimigo o grupo fica abalado. Jesse confronta o seu cyber bully e triunfa inesperadamente(n)</desc>
   </programme>
-  <programme start="20190909211600 +0100" stop="20190909213000 +0100" channel="RTP 2 HD">
-    <title lang="pt">Hora da Sorte</title>
-    <sub-title lang="pt">Lotaria</sub-title>
-    <desc lang="pt">Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpá... Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpática apresentadora Maria João Gama(n)</desc>
+  <programme start="20190909121800 +0100" stop="20190909124700 +0100" channel="RTP 2 FHD">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <desc lang="pt">Os conteúdos do programa E2 da Escola Superior de Comunicação Social na RTP2 são baseados na área de conhecimento da ESCS, acrescidos pelo universo dos institutos/escolas do Instituto Politécnico de Lisboa e pelo universo externo que lhe está directamente relacionado, criando uma vasta abordagem de temas onde o papel desempenhado pela escola na área do conhecimento, deverá ser transmitido à sociedade(n)</desc>
   </programme>
-  <programme start="20190909213000 +0100" stop="20190909220400 +0100" channel="RTP 2 HD">
-    <title lang="pt">Jornal 2</title>
-    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade p... O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do(n)</desc>
+  <programme start="20190909124700 +0100" stop="20190909133800 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Neue Nationalgalerie</title>
+    <desc lang="pt">A Neue Nationalgalerie de Berlim é um edifício notável projetado pelo arquiteto Mies van der Rohe, inaugurado em 1968 pouco antes da sua morte. Quase 50 anos depois, a realizadora Ina Weisse, filha do arquiteto Rolf Weisse que trabalhava nos escritórios de Mies van der Rohe em Chicago, examina o período em que este edifício único foi construído(n)</desc>
   </programme>
-  <programme start="20190909220400 +0100" stop="20190909221000 +0100" channel="RTP 2 HD">
+  <programme start="20190909133800 +0100" stop="20190909134600 +0100" channel="RTP 2 FHD">
     <title lang="pt">Folha de Sala</title>
-    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espec... Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
   </programme>
-  <programme start="20190909221000 +0100" stop="20190909231200 +0100" channel="RTP 2 HD">
-    <title lang="pt">A Fraude T3</title>
-    <sub-title lang="pt">Ep. 5</sub-title>
-    <desc lang="pt">Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos q... Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos que colocou no apartamento de Nicky não fornecem nenhum(n)</desc>
+  <programme start="20190909134600 +0100" stop="20190909145000 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Francisco Lucas Pires - Ao Princípio Não Era o Estado, Era o Homem</title>
+    <desc lang="pt">Documentário de Margarida Mercês de Mello que procura mostrar o brilhantismo e a atualidade das ideias políticas de Francisco Lucas Pires nascido a 15 de setembro de 1944 e que morreu depois de ter estado na inauguração da Expo 98, como representante do Parlamento Europeu(n)</desc>
+  </programme>
+  <programme start="20190909145000 +0100" stop="20190909152500 +0100" channel="RTP 2 FHD">
+    <title lang="pt">A Fé dos Homens</title>
+    <desc lang="pt">A Fé dos Homens(n)</desc>
+  </programme>
+  <programme start="20190909152500 +0100" stop="20190909154900 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Armário - Ep. 2</title>
+    <desc lang="pt">Joana Barrios, declarada amante de revistas, convida Susy Menkes, Mário Moura, Luís Cunha e Paulo Gomes para defenderem a teoria de que o formato revista, ao contrário do que se pensava, está para durar(n)</desc>
+  </programme>
+  <programme start="20190909154900 +0100" stop="20190909164400 +0100" channel="RTP 2 FHD">
+    <title lang="pt">O Japão Visto do Céu - Ep. 5</title>
+    <desc lang="pt">Neste episódio descobre-se o Japão tropical. Na ilha de Kyushu, uma terra vulcânica por excelência, fervem alguns dos vulcões mais perigosos do planeta. Se erupções e terremotos são frequentes, o magma borbulhante oferece também benefícios como fontes termais para banhos terapêuticos e terra rica adequada para o cultivo de chá e arroz(n)</desc>
+  </programme>
+  <programme start="20190909164400 +0100" stop="20190909205000 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  </programme>
+  <programme start="20190909205000 +0100" stop="20190909211600 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Rapazes do Nada T4 - Ep. 2</title>
+    <desc lang="pt">Enquanto o grupo enfrenta a nova ameaça, a preocupação de Jesse com um cyber bully coloca em risco seu maior segredo(n)</desc>
+  </programme>
+  <programme start="20190909211600 +0100" stop="20190909213000 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Hora da Sorte - Lotaria</title>
+    <desc lang="pt">Às segundas-feiras uma emissão especial que inclui a extração dos números da sorte da Lotaria Clássica. Todas as semanas teremos um convidado em estúdio que será entrevistado pela nossa simpática apresentadora Maria João Gama(n)</desc>
+  </programme>
+  <programme start="20190909213000 +0100" stop="20190909220400 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
+  </programme>
+  <programme start="20190909220400 +0100" stop="20190909221000 +0100" channel="RTP 2 FHD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+  </programme>
+  <programme start="20190909221000 +0100" stop="20190909231200 +0100" channel="RTP 2 FHD">
+    <title lang="pt">A Fraude T3 - Ep. 5</title>
+    <desc lang="pt">Quando o marido de Anna descobre o que ela está a fazer exige que pare imediatamente. Anna pede a Nicky para enviar os seus homens enquanto ela configura uma rede de lavagem de dinheiro. Os insetos que colocou no apartamento de Nicky não fornecem nenhuma informação, e Alf, cujo comportamento se está a tornar cada vez mais psicótico, decide causar agitação e prender uma mula de drogas(n)</desc>
   </programme>
 </tv>
