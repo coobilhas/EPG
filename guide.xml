@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1 (LBR)">
+    <display-name lang="pt">RTP 1 (LBR)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20190908005900 +0100" stop="20190908025300 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Famílias Frente a Frente - Desafio na Cozinha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20190908025300 +0100" stop="20190908033800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">A3.30</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E32</episode-num>
+  </programme>
+  <programme start="20190908033800 +0100" stop="20190908060900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190908060900 +0100" stop="20190908063100 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E34</episode-num>
+  </programme>
+  <programme start="20190908063100 +0100" stop="20190908064000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Conta Um Conto</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190908064000 +0100" stop="20190908064900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Os Bochechas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20190908064900 +0100" stop="20190908070100 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jelly Jamm</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20190908070100 +0100" stop="20190908071500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E72</episode-num>
+  </programme>
+  <programme start="20190908071500 +0100" stop="20190908072800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Gawayn</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190908072800 +0100" stop="20190908074000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E36</episode-num>
+  </programme>
+  <programme start="20190908074000 +0100" stop="20190908080000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190908080000 +0100" stop="20190908103000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190908103000 +0100" stop="20190908113700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Eucaristia Dominical</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190908113700 +0100" stop="20190908121300 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal Selvagem</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190908121300 +0100" stop="20190908130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">As Receitas Lá de Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E177</episode-num>
+  </programme>
+  <programme start="20190908130000 +0100" stop="20190908141800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190908141800 +0100" stop="20190908161200 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Liga de Futsal - Sporting x Portimonense</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190908161200 +0100" stop="20190908165700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190908165700 +0100" stop="20190908191000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Pátio das Cantigas (2015)</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190908191000 +0100" stop="20190908195900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Vejam Bem</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190908195900 +0100" stop="20190908210400 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190908210400 +0100" stop="20190908214700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Desliga a Televisão</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190908214700 +0100" stop="20190908234500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">I Love Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190908234500 +0100" stop="20190909021900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Herói de Hacksaw Ridge</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190909021900 +0100" stop="20190909030700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Salamandra</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190909030700 +0100" stop="20190909035500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190909035500 +0100" stop="20190909061400 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909061400 +0100" stop="20190909063000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190909063000 +0100" stop="20190909100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190909100000 +0100" stop="20190909130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190909130000 +0100" stop="20190909142000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190909142000 +0100" stop="20190909173000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190909173000 +0100" stop="20190909190900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190909190900 +0100" stop="20190909195900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190909195900 +0100" stop="20190909210000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190909210000 +0100" stop="20190909214400 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Debates Legislativas 2019</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190909214400 +0100" stop="20190909223700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E52</episode-num>
+  </programme>
+  <programme start="20190909223700 +0100" stop="20190909232700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Alguém Como Eu - Minissérie</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190909232700 +0100" stop="20190910003100 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">2077 - 10 Segundos Para o Futuro</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190910003100 +0100" stop="20190910012800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Fúrias da Natureza</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190910012800 +0100" stop="20190910024500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Kintal di Belinha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E13</episode-num>
+  </programme>
+  <programme start="20190910024500 +0100" stop="20190910032800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Água de Mar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E153</episode-num>
+  </programme>
+  <programme start="20190910032800 +0100" stop="20190910055900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190910055900 +0100" stop="20190910063000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190910063000 +0100" stop="20190910100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190910100000 +0100" stop="20190910130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190910130000 +0100" stop="20190910142000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190910142000 +0100" stop="20190910173000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190910173000 +0100" stop="20190910190000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190910190000 +0100" stop="20190910193700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190910193700 +0100" stop="20190910213800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Qualificação Euro 2020 - Lituânia x Portugal</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190910213800 +0100" stop="20190910215600 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Futebol: Qualificação Euro 2020 - Flash Interview</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190910215600 +0100" stop="20190910225000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E79</episode-num>
+  </programme>
+  <programme start="20190910225000 +0100" stop="20190911002700 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Prova Oral</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190911002700 +0100" stop="20190911031200 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Os Canhões de Navarone</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190911031200 +0100" stop="20190911035600 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Água de Mar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E154</episode-num>
+  </programme>
+  <programme start="20190911035600 +0100" stop="20190911055900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190911055900 +0100" stop="20190911063000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190911063000 +0100" stop="20190911100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190911100000 +0100" stop="20190911130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190911130000 +0100" stop="20190911141500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190911141500 +0100" stop="20190911173000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190911173000 +0100" stop="20190911190000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190911190000 +0100" stop="20190911195900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190911195900 +0100" stop="20190911210000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190911210000 +0100" stop="20190911213000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal Mais Perto</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190911213000 +0100" stop="20190911223000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E80</episode-num>
+  </programme>
+  <programme start="20190911223000 +0100" stop="20190911233000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Cá por Casa com Herman José</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E2</episode-num>
+  </programme>
+  <programme start="20190911233000 +0100" stop="20190912000000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Amor a Quanto Obrigas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190912000000 +0100" stop="20190912010000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E37</episode-num>
+  </programme>
+  <programme start="20190912010000 +0100" stop="20190912014500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S12E31</episode-num>
+  </programme>
+  <programme start="20190912014500 +0100" stop="20190912023000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Água de Mar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E155</episode-num>
+  </programme>
+  <programme start="20190912023000 +0100" stop="20190912031500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Água de Mar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E156</episode-num>
+  </programme>
+  <programme start="20190912031500 +0100" stop="20190912055900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190912055900 +0100" stop="20190912063000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190912063000 +0100" stop="20190912100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190912100000 +0100" stop="20190912130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190912130000 +0100" stop="20190912141500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190912141500 +0100" stop="20190912173000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190912173000 +0100" stop="20190912184500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190912184500 +0100" stop="20190912190800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Fatura Da Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E36</episode-num>
+  </programme>
+  <programme start="20190912190800 +0100" stop="20190912195900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190912195900 +0100" stop="20190912210000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190912210000 +0100" stop="20190912214500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Debates Legislativas 2019</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190912214500 +0100" stop="20190912224500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E81</episode-num>
+  </programme>
+  <programme start="20190912224500 +0100" stop="20190913000000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Cosido à Mão</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E11</episode-num>
+  </programme>
+  <programme start="20190913000000 +0100" stop="20190913001500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">À Roda da Alimentação</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E33</episode-num>
+  </programme>
+  <programme start="20190913001500 +0100" stop="20190913010000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Sei Quem Ele É</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190913010000 +0100" stop="20190913030000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Uma Ponte Longe Demais</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190913030000 +0100" stop="20190913034500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Programa a Designar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190913034500 +0100" stop="20190913055900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190913055900 +0100" stop="20190913063000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190913063000 +0100" stop="20190913100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190913100000 +0100" stop="20190913130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190913130000 +0100" stop="20190913141500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190913141500 +0100" stop="20190913173000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Festa das Vindimas</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190913173000 +0100" stop="20190913190800 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190913190800 +0100" stop="20190913195900 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190913195900 +0100" stop="20190913210000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190913210000 +0100" stop="20190913213000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Sexta às 9</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E25</episode-num>
+  </programme>
+  <programme start="20190913213000 +0100" stop="20190913223000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E82</episode-num>
+  </programme>
+  <programme start="20190913223000 +0100" stop="20190913233000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">O Nosso Cônsul em Havana</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190913233000 +0100" stop="20190914004500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190914004500 +0100" stop="20190914024500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Samitério de Animais</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190914024500 +0100" stop="20190914034500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Programa a Designar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190914034500 +0100" stop="20190914054500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190914054500 +0100" stop="20190914063100 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Viva a Música</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E22</episode-num>
+  </programme>
+  <programme start="20190914063100 +0100" stop="20190914064000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Conta Um Conto</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190914064000 +0100" stop="20190914065000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Os Bochechas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20190914065000 +0100" stop="20190914070000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jelly Jamm</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E20</episode-num>
+  </programme>
+  <programme start="20190914070000 +0100" stop="20190914071500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E73</episode-num>
+  </programme>
+  <programme start="20190914071500 +0100" stop="20190914073000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Gawayn</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190914073000 +0100" stop="20190914074500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E37</episode-num>
+  </programme>
+  <programme start="20190914074500 +0100" stop="20190914080000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20190914080000 +0100" stop="20190914100000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190914100000 +0100" stop="20190914103000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal Selvagem</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190914103000 +0100" stop="20190914110000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Portugal Selvagem</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190914110000 +0100" stop="20190914124500 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E34</episode-num>
+  </programme>
+  <programme start="20190914124500 +0100" stop="20190914130000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">À Roda da Alimentação</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E34</episode-num>
+  </programme>
+  <programme start="20190914130000 +0100" stop="20190914141100 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190914141100 +0100" stop="20190914143000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E30</episode-num>
+  </programme>
+  <programme start="20190914143000 +0100" stop="20190914190000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E34</episode-num>
+  </programme>
+  <programme start="20190914190000 +0100" stop="20190914210000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190914210000 +0100" stop="20190914213000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Programa a Designar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190914213000 +0100" stop="20190914223000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E83</episode-num>
+  </programme>
+  <programme start="20190914223000 +0100" stop="20190915010000 +0100" channel="RTP 1 (LBR)">
+    <title lang="pt">Programa a Designar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>
